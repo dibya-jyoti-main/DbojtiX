@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>DbojtiX Movies</title>
+<meta name="theme-color" content="#000000">
+<meta name="robots" content="noindex,nofollow">
+<link rel="preconnect" href="https://image.tmdb.org" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800;900&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --bg:#0a0a0f;
+  --card:#15151d;
+  --text:#fff;
+  --muted:#9ca3af;
+  --accent:#ff6b00;
+  --accent2:#ff9a00;
+}
+*{ margin:0; padding:0; box-sizing:border-box; }
+body{
+  font-family:'DM Sans',Arial,sans-serif;
+  background:var(--bg);
+  color:white;
+  overflow-x:hidden;
+}
+img{ display:block; }
+button{ font-family:inherit; }
+
+/* ── HEADER ── */
+header{
+  position:sticky; top:0; z-index:100;
+  backdrop-filter:blur(20px);
+  background:rgba(10,10,15,.96);
+  border-bottom:1px solid rgba(255,255,255,.06);
+}
+.topbar{ display:flex; align-items:center; gap:14px; padding:16px; }
+.logo{ font-family:'Syne',sans-serif; font-size:28px; font-weight:900; white-space:nowrap; }
+.logo span{ color:var(--accent); }
+.search{ flex:1; }
+.search input{
+  width:100%; height:46px; border:none; outline:none;
+  border-radius:999px; padding:0 18px;
+  background:rgba(255,255,255,.08); color:white; font-size:15px;
+  transition:.2s;
+}
+.search input:focus{ background:rgba(255,255,255,.13); }
+.search input::placeholder{ color:#888; }
+.profile-btn{
+  width:44px; height:44px; border:none; border-radius:50%;
+  overflow:hidden; cursor:pointer; background:#222; flex-shrink:0;
+}
+.profile-btn img{ width:100%; height:100%; object-fit:cover; }
+
+.platforms{
+  display:flex; gap:10px; overflow-x:auto;
+  padding:0 16px 16px; scrollbar-width:none;
+}
+.platforms::-webkit-scrollbar{ display:none; }
+.platform-btn{
+  display:flex; align-items:center; gap:10px;
+  background:rgba(255,255,255,.08); border:none; color:white;
+  padding:10px 16px; border-radius:999px; cursor:pointer;
+  white-space:nowrap; font-weight:700; font-size:13px; transition:.2s;
+}
+.platform-btn:hover{ background:rgba(255,255,255,.15); }
+.platform-btn.active{ background:white; color:black; }
+.platform-btn img{ width:24px; height:24px; border-radius:50%; object-fit:cover; }
+
+/* ── HERO ── */
+.hero{
+  position:relative; height:72vh; min-height:420px;
+  overflow:hidden; background:black;
+}
+.hero-bg{
+  position:absolute; inset:0; width:100%; height:100%;
+  object-fit:cover; z-index:1;
+}
+.hero-overlay{
+  position:absolute; inset:0; z-index:2;
+  background:
+    linear-gradient(to top,#0a0a0f 8%,transparent 60%),
+    linear-gradient(to right,#0a0a0f 0%,transparent 70%);
+}
+.hero-content{
+  position:absolute; left:0; bottom:0; z-index:3;
+  padding:30px; max-width:720px;
+}
+.hero-badge{
+  display:inline-flex; align-items:center; gap:8px;
+  padding:8px 14px; border-radius:999px;
+  background:rgba(255,255,255,.12); margin-bottom:16px;
+  font-size:13px; font-weight:700; backdrop-filter:blur(10px);
+}
+.hero-title{
+  font-family:'Syne',sans-serif;
+  font-size:58px; font-weight:900; line-height:1; margin-bottom:16px;
+}
+.hero-meta{
+  display:flex; flex-wrap:wrap; gap:12px;
+  margin-bottom:16px; color:#ddd; font-size:14px; font-weight:600;
+}
+.hero-desc{
+  color:#ddd; line-height:1.8; font-size:15px;
+  margin-bottom:24px; max-width:700px;
+}
+.hero-actions{ display:flex; gap:12px; flex-wrap:wrap; }
+.hero-btn{
+  height:50px; padding:0 24px; border:none; border-radius:10px;
+  font-weight:700; cursor:pointer; font-size:15px; transition:.2s;
+}
+.play-btn{ background:white; color:black; }
+.play-btn:hover{ background:#f0f0f0; transform:scale(1.03); }
+.info-btn{ background:rgba(255,255,255,.12); color:white; }
+.info-btn:hover{ background:rgba(255,255,255,.2); }
+
+/* ── CARDS ── */
+.section{ padding:28px 16px; }
+.section-title{ font-family:'Syne',sans-serif; font-size:24px; font-weight:900; margin-bottom:20px; }
+.grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(165px,1fr)); gap:16px; }
+.card{
+  background:var(--card); border-radius:18px; overflow:hidden;
+  cursor:pointer; border:1px solid rgba(255,255,255,.05); transition:.2s;
+}
+.card:hover{ transform:translateY(-5px); box-shadow:0 12px 40px rgba(0,0,0,.5); }
+.poster{ aspect-ratio:2/3; overflow:hidden; background:#111; position:relative; }
+.poster img{ width:100%; height:100%; object-fit:cover; }
+.card-content{ padding:12px; }
+.card-title{ font-size:14px; font-weight:700; margin-bottom:6px; line-height:1.4; }
+.card-meta{ font-size:12px; color:var(--muted); }
+
+.loading{ padding:80px 20px; text-align:center; color:#888; font-size:18px; }
+
+/* ── LOGIN MODAL ── */
+.login-overlay{
+  position:fixed; inset:0; background:rgba(0,0,0,.95);
+  z-index:9999; display:flex; align-items:center; justify-content:center;
+  backdrop-filter:blur(10px);
+}
+.login-box{
+  background:#111; border-radius:24px; padding:40px 36px;
+  width:90%; max-width:400px;
+  border:1px solid rgba(255,255,255,.08);
+  box-shadow:0 30px 80px rgba(0,0,0,.8);
+  animation:fadeUp .4s ease;
+}
+@keyframes fadeUp{
+  from{ opacity:0; transform:translateY(30px); }
+  to{ opacity:1; transform:translateY(0); }
+}
+.login-logo{
+  font-family:'Syne',sans-serif;
+  font-size:36px; font-weight:900; text-align:center; margin-bottom:6px;
+}
+.login-logo span{ color:var(--accent); }
+.login-subtitle{ text-align:center; color:#888; font-size:14px; margin-bottom:32px; }
+.login-field{ margin-bottom:16px; }
+.login-field label{ display:block; font-size:13px; font-weight:600; color:#bbb; margin-bottom:8px; }
+.login-field input{
+  width:100%; height:48px; background:rgba(255,255,255,.07);
+  border:1px solid rgba(255,255,255,.1); border-radius:12px;
+  color:white; font-size:15px; padding:0 16px; outline:none;
+  transition:.2s; font-family:inherit;
+}
+.login-field input:focus{ border-color:var(--accent); background:rgba(255,255,255,.1); }
+.login-field input::placeholder{ color:#555; }
+.age-grid{ display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+.age-btn{
+  padding:12px; border:1px solid rgba(255,255,255,.1);
+  border-radius:12px; background:rgba(255,255,255,.05);
+  color:white; cursor:pointer; font-size:13px; font-weight:600;
+  transition:.2s; text-align:center;
+}
+.age-btn:hover{ background:rgba(255,255,255,.1); }
+.age-btn.selected{ background:var(--accent); border-color:var(--accent); color:white; }
+.login-btn{
+  width:100%; height:50px; background:var(--accent);
+  border:none; border-radius:12px; color:white;
+  font-size:16px; font-weight:700; cursor:pointer;
+  margin-top:24px; transition:.2s; font-family:inherit;
+}
+.login-btn:hover{ background:var(--accent2); }
+.login-error{ color:#ff4444; font-size:13px; margin-top:10px; text-align:center; display:none; }
+
+/* ── INFO MODAL ── */
+.modal{
+  position:fixed; inset:0; background:rgba(0,0,0,.95);
+  z-index:999; display:none; overflow-y:auto;
+}
+.modal-box{
+  max-width:1100px; margin:40px auto;
+  background:#111; border-radius:22px; overflow:hidden;
+}
+.modal-backdrop{
+  height:430px; background-size:cover; background-position:center;
+  position:relative;
+}
+.modal-backdrop::after{
+  content:''; position:absolute; inset:0;
+  background:linear-gradient(to top,#111 5%,transparent 80%);
+}
+.modal-content{
+  padding:24px; position:relative;
+  margin-top:-120px; z-index:2;
+}
+.modal-poster{
+  width:170px; border-radius:18px; overflow:hidden;
+  margin-bottom:20px; border:2px solid rgba(255,255,255,.1);
+}
+.modal-poster img{ width:100%; display:block; }
+.modal-title{ font-family:'Syne',sans-serif; font-size:44px; font-weight:900; margin-bottom:14px; }
+.modal-meta{ display:flex; flex-wrap:wrap; gap:12px; margin-bottom:18px; color:#ddd; font-size:14px; }
+.modal-desc{ line-height:1.8; color:#ddd; margin-bottom:24px; }
+.modal-buttons{ display:flex; gap:12px; flex-wrap:wrap; margin-bottom:20px; }
+.modal-btn{
+  height:48px; padding:0 22px; border:none;
+  border-radius:10px; font-weight:700; cursor:pointer; transition:.2s;
+  font-family:inherit;
+}
+.modal-btn.play-btn{ background:white; color:black; }
+.modal-btn.play-btn:hover{ background:#eee; }
+.modal-btn.info-btn{ background:rgba(255,255,255,.12); color:white; }
+.modal-btn.info-btn:hover{ background:rgba(255,255,255,.2); }
+
+/* ── SEASON/EPISODE PICKER ── */
+.seasons-section{ margin-top:25px; }
+.seasons-section h3{ font-family:'Syne',sans-serif; font-size:22px; margin-bottom:15px; }
+.season-list{ display:flex; flex-direction:column; gap:12px; }
+.season-item{
+  background:#1b1b24; border-radius:14px; overflow:hidden;
+}
+.season-header{
+  display:flex; align-items:center; justify-content:space-between;
+  padding:14px 18px; cursor:pointer; font-weight:700;
+  transition:.2s;
+}
+.season-header:hover{ background:rgba(255,255,255,.05); }
+.season-header .arrow{ transition:.3s; font-size:12px; }
+.season-header.open .arrow{ transform:rotate(180deg); }
+.episode-grid{
+  display:none; padding:0 14px 14px;
+  grid-template-columns:repeat(auto-fill,minmax(52px,1fr)); gap:8px;
+}
+.episode-grid.open{ display:grid; }
+.ep-btn{
+  height:42px; background:rgba(255,255,255,.07); border:none;
+  border-radius:8px; color:white; font-weight:700; font-size:13px;
+  cursor:pointer; transition:.2s;
+}
+.ep-btn:hover{ background:var(--accent); color:white; }
+.ep-btn.playing{ background:var(--accent); }
+
+/* ── RATING WIDGET ── */
+.rating-widget{ margin-bottom:20px; }
+.rating-widget label{ font-size:13px; color:#bbb; display:block; margin-bottom:8px; }
+.stars{ display:flex; gap:6px; }
+.star{
+  font-size:26px; cursor:pointer; transition:.15s; line-height:1;
+  filter:grayscale(1) opacity(.4);
+}
+.star.active{ filter:grayscale(0) opacity(1); }
+.rating-text{ font-size:13px; color:var(--muted); margin-top:6px; }
+
+/* ── PLAYER ── */
+.player{
+  position:fixed; inset:0; background:black;
+  z-index:2000; display:none; flex-direction:column;
+}
+.player-controls{
+  display:flex; align-items:center; gap:16px;
+  padding:12px 20px; background:rgba(0,0,0,.8);
+  backdrop-filter:blur(10px);
+  border-bottom:1px solid rgba(255,255,255,.08);
+  flex-shrink:0;
+}
+.player-title{ font-family:'Syne',sans-serif; font-weight:800; font-size:16px; flex:1; }
+.player-ep-controls{ display:flex; align-items:center; gap:10px; }
+.player-ep-btn{
+  height:36px; padding:0 14px; border:none; border-radius:8px;
+  background:rgba(255,255,255,.1); color:white; font-weight:700;
+  font-size:13px; cursor:pointer; transition:.2s;
+}
+.player-ep-btn:hover{ background:rgba(255,255,255,.2); }
+.player-ep-btn:disabled{ opacity:.3; cursor:default; }
+.player-ep-select{
+  height:36px; background:rgba(255,255,255,.1); border:none;
+  color:white; border-radius:8px; padding:0 10px;
+  font-size:13px; cursor:pointer; font-family:inherit;
+}
+.player-iframe{ flex:1; border:none; width:100%; }
+.close-btn{
+  width:40px; height:40px; border:none; border-radius:50%;
+  background:rgba(255,255,255,.1); color:white; font-size:18px;
+  cursor:pointer; transition:.2s; flex-shrink:0;
+}
+.close-btn:hover{ background:rgba(255,255,255,.2); }
+
+footer{
+  padding:50px 20px; text-align:center; color:#777; font-size:14px;
+}
+.footer-logo{ font-family:'Syne',sans-serif; font-size:20px; font-weight:800; margin-bottom:8px; }
+
+/* ── PROFILE MODAL ── */
+.profile-modal{
+  position:fixed; inset:0; background:rgba(0,0,0,.85);
+  z-index:5000; display:none; align-items:center; justify-content:center;
+  backdrop-filter:blur(8px);
+}
+.profile-modal.open{ display:flex; }
+.profile-box{
+  background:#111; border-radius:24px; padding:36px;
+  width:90%; max-width:380px; text-align:center;
+  border:1px solid rgba(255,255,255,.08);
+  animation:fadeUp .3s ease;
+}
+.profile-avatar{
+  width:90px; height:90px; border-radius:50%;
+  margin:0 auto 16px; overflow:hidden;
+  border:3px solid var(--accent);
+  position: relative;
+  cursor: pointer;
+}
+.profile-avatar img{ width:100%; height:100%; object-fit:cover; }
+.profile-avatar .upload-hint {
+  position: absolute; bottom: 0; left: 0; right: 0;
+  background: rgba(0,0,0,0.7); color: white;
+  font-size: 10px; padding: 2px 0;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.profile-avatar:hover .upload-hint { opacity: 1; }
+
+.profile-name{ font-family:'Syne',sans-serif; font-size:26px; font-weight:900; margin-bottom:4px; }
+.profile-age{ color:#888; font-size:14px; margin-bottom:24px; }
+.profile-stats{
+  display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:24px;
+}
+.stat-card{
+  background:rgba(255,255,255,.06); border-radius:12px; padding:14px;
+}
+.stat-num{ font-family:'Syne',sans-serif; font-size:24px; font-weight:900; color:var(--accent); }
+.stat-label{ font-size:12px; color:#888; margin-top:4px; }
+.profile-logout{
+  width:100%; height:44px; background:rgba(255,60,60,.15); border:1px solid rgba(255,60,60,.3);
+  border-radius:12px; color:#ff6060; font-weight:700; cursor:pointer;
+  font-family:inherit; font-size:14px; transition:.2s; margin-bottom:12px;
+}
+.profile-logout:hover{ background:rgba(255,60,60,.25); }
+.profile-close{
+  width:100%; height:44px; background:rgba(255,255,255,.07); border:none;
+  border-radius:12px; color:white; font-weight:700; cursor:pointer;
+  font-family:inherit; font-size:14px; transition:.2s;
+}
+.profile-close:hover{ background:rgba(255,255,255,.12); }
+.edit-profile-btn{
+  width:100%; height:44px; background:rgba(255,255,255,.07); border:none;
+  border-radius:12px; color:white; font-weight:700; cursor:pointer;
+  font-family:inherit; font-size:14px; transition:.2s; margin-bottom:12px;
+}
+.edit-profile-btn:hover{ background:rgba(255,255,255,.12); }
+.remove-avatar-btn {
+  background: none; border: none; color: #ff6060;
+  font-size: 12px; cursor: pointer; margin-top: 8px;
+  text-decoration: underline;
+}
+.remove-avatar-btn:hover { color: #ff8888; }
+
+@media(max-width:700px){
+  .hero{ height:80vh; }
+  .hero-title{ font-size:36px; }
+  .hero-desc{ font-size:14px; }
+  .modal-box{ margin:0; border-radius:0; min-height:100vh; }
+  .modal-backdrop{ height:280px; }
+  .modal-content{ padding:18px; margin-top:-60px; }
+  .modal-title{ font-size:30px; }
+  .modal-poster{ width:130px; }
+  .grid{ grid-template-columns:repeat(2,1fr); gap:12px; }
+  .player-title{ display:none; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- LOGIN OVERLAY -->
+<div class="login-overlay" id="loginOverlay">
+  <div class="login-box">
+    <div class="login-logo"><span>Dbojti</span>X</div>
+    <div class="login-subtitle">Sign in to start watching</div>
+
+    <div class="login-field">
+      <label>Your Name</label>
+      <input type="text" id="loginName" placeholder="Enter your name" maxlength="40">
+    </div>
+
+    <div class="login-field">
+      <label>Age Group</label>
+      <div class="age-grid" id="ageGrid">
+        <button class="age-btn" data-age="Under 13">Under 13</button>
+        <button class="age-btn" data-age="13–17">13–17</button>
+        <button class="age-btn" data-age="18–25">18–25</button>
+        <button class="age-btn" data-age="26+">26+</button>
+      </div>
+    </div>
+
+    <div class="login-field">
+      <label>Avatar Color</label>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <button class="age-btn selected" data-color="ff6b00" id="colorBtn" style="background:#ff6b00;border-color:#ff6b00;">🔥 Orange</button>
+        <button class="age-btn" data-color="6b5bff">💜 Purple</button>
+        <button class="age-btn" data-color="00b894">🟢 Green</button>
+        <button class="age-btn" data-color="e84393">🌸 Pink</button>
+      </div>
+    </div>
+
+    <div class="login-error" id="loginError">Please fill in your name and select an age group.</div>
+
+    <button class="login-btn" onclick="doLogin()">Let's Go →</button>
+  </div>
+</div>
+
+<!-- PROFILE MODAL -->
+<div class="profile-modal" id="profileModal">
+  <div class="profile-box">
+    <div class="profile-avatar" id="profileAvatarContainer">
+      <img id="profileModalImg" src="">
+      <div class="upload-hint">Click to change</div>
+      <input type="file" id="avatarUploadInput" accept="image/*" style="display:none;" onchange="handleAvatarFileSelect(event)">
+    </div>
+    <div class="profile-name" id="profileModalName"></div>
+    <div class="profile-age" id="profileModalAge"></div>
+    <div class="profile-stats" id="profileStats">
+      <div class="stat-card">
+        <div class="stat-num" id="statWatchlist">0</div>
+        <div class="stat-label">Watchlist</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="statHistory">0</div>
+        <div class="stat-label">Watched</div>
+      </div>
+    </div>
+    <div id="profileEditForm" style="display:none;">
+      <div class="login-field">
+        <label>Name</label>
+        <input type="text" id="editName" placeholder="Your name" maxlength="40">
+      </div>
+      <div class="login-field">
+        <label>Age Group</label>
+        <div class="age-grid" id="editAgeGrid">
+          <button class="age-btn" data-age="Under 13">Under 13</button>
+          <button class="age-btn" data-age="13–17">13–17</button>
+          <button class="age-btn" data-age="18–25">18–25</button>
+          <button class="age-btn" data-age="26+">26+</button>
+        </div>
+      </div>
+      <div class="login-field">
+        <label>Avatar Color</label>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;" id="editColorBtns">
+          <button class="age-btn" data-color="ff6b00" style="background:#ff6b00;">🔥 Orange</button>
+          <button class="age-btn" data-color="6b5bff">💜 Purple</button>
+          <button class="age-btn" data-color="00b894">🟢 Green</button>
+          <button class="age-btn" data-color="e84393">🌸 Pink</button>
+        </div>
+      </div>
+      <button class="login-btn" onclick="saveProfileEdit()" style="margin-bottom:12px;">Save Changes</button>
+      <button class="profile-close" onclick="cancelProfileEdit()">Cancel</button>
+    </div>
+    <button class="edit-profile-btn" id="editProfileBtn" onclick="startProfileEdit()">✏️ Edit Profile</button>
+    <button class="profile-logout" onclick="doLogout()">🚪 Sign Out</button>
+    <button class="profile-close" onclick="closeProfileModal()">Close</button>
+  </div>
+</div>
+
+<header>
+  <div class="topbar">
+    <div class="logo"><span>Dbojti</span>X</div>
+    <div class="search">
+      <input id="searchInput" type="search" placeholder="Search movies, shows, anime...">
+    </div>
+    <button class="profile-btn" onclick="openProfileModal()">
+      <img id="profileImage" src="">
+    </button>
+  </div>
+
+  <div class="platforms">
+    <button class="platform-btn active" data-platform="trending">🔥 Trending</button>
+    <button class="platform-btn" data-platform="Netflix">
+      <img src="https://image.tmdb.org/t/p/w92/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"> Netflix
+    </button>
+    <button class="platform-btn" data-platform="PrimeVideo">
+      <img src="https://image.tmdb.org/t/p/w92/pvske1MyAoymrs5bguRfVqYiM9a.jpg"> Prime Video
+    </button>
+    <button class="platform-btn" data-platform="Crunchyroll">
+      <img src="https://image.tmdb.org/t/p/w92/fzN5Jok5Ig1eJ7gyNGoMhnLSCfh.jpg"> Crunchyroll
+    </button>
+    <button class="platform-btn" data-platform="AppleTV">
+      <img src="https://image.tmdb.org/t/p/w92/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg"> Apple TV+
+    </button>
+    <button class="platform-btn" data-platform="KDrama">🇰🇷 K-Drama</button>
+    <button class="platform-btn" onclick="loadWatchlist()">❤️ Watchlist</button>
+    <button class="platform-btn" onclick="loadHistory()">⏳ Continue</button>
+  </div>
+</header>
+
+<section class="hero" id="hero">
+  <div class="loading">Loading Hero...</div>
+</section>
+
+<section class="section" id="mainSection">
+  <h2 class="section-title" id="sectionTitle">Trending</h2>
+  <div class="grid" id="grid">
+    <div class="loading">Loading...</div>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-logo"><span style="color:var(--accent)">Dbojti</span>X</div>
+  <div>Movies · Shows · Anime · Multi-Language Streaming</div>
+</footer>
+
+<!-- INFO MODAL -->
+<div class="modal" id="infoModal">
+  <button class="close-btn" style="position:fixed;top:20px;right:20px;z-index:1001;" onclick="closeInfo()">✕</button>
+  <div class="modal-box" id="modalBox"></div>
+</div>
+
+<!-- PLAYER -->
+<div class="player" id="player">
+  <div class="player-controls">
+    <button class="close-btn" onclick="closePlayer()">✕</button>
+    <div class="player-title" id="playerTitle"></div>
+    <div class="player-ep-controls" id="playerEpControls" style="display:none;">
+      <button class="player-ep-btn" id="prevEpBtn" onclick="changeEp(-1)">◀ Prev</button>
+      <select class="player-ep-select" id="epSelect" onchange="jumpToEp(this.value)"></select>
+      <button class="player-ep-btn" id="nextEpBtn" onclick="changeEp(1)">Next ▶</button>
+    </div>
+  </div>
+  <iframe
+    id="playerFrame"
+    class="player-iframe"
+    sandbox="allow-scripts allow-same-origin allow-forms allow-presentation"
+    allowfullscreen
+    referrerpolicy="no-referrer"
+    allow="autoplay; encrypted-media"
+  ></iframe>
+</div>
+<script src="/movie/script.js"></script>
+</body>
+</html>
