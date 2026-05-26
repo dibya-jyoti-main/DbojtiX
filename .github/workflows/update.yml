@@ -1,0 +1,48 @@
+name: Auto Update DbojtiX
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    env:
+      X_STREAM_ENGINE_01: ${{ secrets.X_STREAM_ENGINE_01 }}
+      X_REF_01: ${{ secrets.X_REF_01 }}
+      X_ORIGIN_01: ${{ secrets.X_ORIGIN_01 }}
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⚡ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 🚀 Run Update Script
+        run: node scripts/update.js
+
+      - name: 🕒 Update Timestamp
+        run: |
+          echo "Last Update: $(date -u)" > last-update.txt
+
+      - name: ✅ Commit And Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          git diff --cached --quiet && exit 0
+
+          git commit -m " Update main.js"
+
+          git push
