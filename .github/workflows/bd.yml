@@ -13,7 +13,7 @@ jobs:
 update:
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - name: Checkout Repository
     uses: actions/checkout@v4
@@ -46,4 +46,4 @@ steps:
 
       git commit -m "Auto Update IPTV Playlist"
       git push
-```
+
