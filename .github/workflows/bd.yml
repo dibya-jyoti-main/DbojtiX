@@ -13,7 +13,7 @@ jobs:
 update:
 runs-on: ubuntu-latest
 
-```
+
 steps:
   - name: Checkout Repository
     uses: actions/checkout@v4
@@ -44,4 +44,4 @@ steps:
       git commit -m "Update IPTV Playlist"
 
       git push
-```
+
