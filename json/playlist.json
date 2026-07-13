@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-07-14 01:35:52"
+    "generated": "2026-07-14 03:01:55"
   },
   "channels": [
     {
@@ -892,9 +892,9 @@
       "url": "https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8"
     },
     {
-      "title": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/EFG-Swiss-Open-Gstaad_fc-Web.jpg\" group-title=\"Live Event\", Day 1 - World Feed vs Switzerland (ATP 250 - EFG Swiss Open Gstaad 2026)",
+      "title": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png\" group-title=\"Live Event\", West Indies vs New Zealand (New Zealand tour of West Indies- 2026)",
       "group": "Live Event",
-      "url": "https://bd-mc-fblive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/index.m3u8"
+      "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/index.m3u8"
     },
     {
       "title": "tvg-logo=\"https://www.fancode.com/skillup-uploads/cms-media/Plava-Laguna-Croatia-Open-Umag_2026_FC-WEB.jpg\" group-title=\"Live Event\", Day 1 - World Feed vs Croatia (ATP 250 - Plava Laguna Croatia Open Umag 2026)",
@@ -904,12 +904,12 @@
     {
       "title": "w_300,q_85/zUGrjZ4BuUSiBsg_1BeE/posters/a1152aa0-10ca-451c-8054-26633aa13fde.png\",[BD] FIFA WC CHANNEL 1",
       "group": "[LIVE] BDIX ♛",
-      "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783969766~Starts=1783962566~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=3_A6Les8dEay8wdrd7-k-W5y0wJBjSGQBLIDpWMycCzPHvYHiXkiScvfXNV6SdIqqYxyk5g3m3YGqtJR9LOsDQ"
+      "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1783977354~Starts=1783970154~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=55ze2JcWZfjTX5-JCICVA6qbL_-g4G0vZiEhbJRZIAZdc4NgN7kCdW_7opbyxhwv-BsqQ4-nXK-jsnHULb8zDQ"
     },
     {
       "title": "w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png\",[BD] WC Match Recap",
       "group": "[LIVE] BDIX ♛",
-      "url": "https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783969769~Starts=1783962569~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=TI5XnoI6YF6YTM4-WjK9vBtjzR2BrKgGrwrSttGTRlLbpW8nilD606v2Bdkerij10phoQ_q93AanSJFqobTQCQ"
+      "url": "https://prod-cdn01-live.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1783977356~Starts=1783970156~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmE2YTBlMzktNjgxNi00ODNiLTg4ZDktYWZhZTAzN2IwMDZjIn0~Signature=kdwD7HJGCRETlUgYPauG8gt1qNc4umig9cm22hqipqDDRxCeUi3pjd_zUGo0VGfJYROeelSTGIeAG3WLJMxICA"
     },
     {
       "title": "w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png\",[BD] Sony Ten Sports 2 HD",
@@ -1232,19 +1232,24 @@
       "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8"
     },
     {
+      "title": "Ananda TV",
+      "group": "Unknown",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
+    },
+    {
       "title": "Gazi TV",
       "group": "Unknown",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
     },
     {
-      "title": "Somoy News TV (1080p)",
-      "group": "Unknown",
-      "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
-    },
-    {
       "title": "My TV",
       "group": "Unknown",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
+    },
+    {
+      "title": "Somoy News TV (1080p)",
+      "group": "Unknown",
+      "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
     },
     {
       "title": "Ekushey TV (480p)",
@@ -1262,11 +1267,6 @@
       "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     },
     {
-      "title": "Channel 1 News HD",
-      "group": "Cricket",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
-    },
-    {
       "title": "Live Quran TV",
       "group": "Cricket",
       "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8"
@@ -1282,24 +1282,9 @@
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
     },
     {
-      "title": "PBS Kids",
-      "group": "Kids",
-      "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
-    },
-    {
       "title": "Cartoon Network",
       "group": "Kids",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
-    },
-    {
-      "title": "Independent TV",
-      "group": "Bangladesh*",
-      "url": "http://103.175.242.10:8080/independent/index.m3u8"
-    },
-    {
-      "title": "Saudia Arabia",
-      "group": "Cricket",
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
     },
     {
       "title": "T Sports HD",
@@ -1307,14 +1292,14 @@
       "url": "http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1"
     },
     {
-      "title": "QURAN",
-      "group": "ISLAMIC CHANNELS",
-      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+      "title": "Independent TV",
+      "group": "Bangladesh*",
+      "url": "http://103.175.242.10:8080/independent/index.m3u8"
     },
     {
-      "title": "Arabica TV",
-      "group": "Bangladeshi",
-      "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
+      "title": "PBS Kids",
+      "group": "Kids",
+      "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     },
     {
       "title": "Saudi Quran",
@@ -1322,9 +1307,14 @@
       "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8"
     },
     {
-      "title": "Sunnah Tv",
+      "title": "Saudia Arabia",
+      "group": "Cricket",
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
+    },
+    {
+      "title": "QURAN",
       "group": "ISLAMIC CHANNELS",
-      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
+      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
     },
     {
       "title": "AL SUNNAH TV",
@@ -1332,19 +1322,14 @@
       "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
     },
     {
-      "title": "QURAN RADIOTV SMC",
+      "title": "Sunnah Tv",
       "group": "ISLAMIC CHANNELS",
-      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
     },
     {
-      "title": "Travel XP English NZ",
-      "group": "Infotainment Channels",
-      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
-    },
-    {
-      "title": "ALMASIRA MUBASHER",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
+      "title": "Arabica TV",
+      "group": "Bangladeshi",
+      "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
     },
     {
       "title": "AL EKHBARIA",
@@ -1352,14 +1337,34 @@
       "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8"
     },
     {
+      "title": "QURAN RADIOTV SMC",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+    },
+    {
+      "title": "ALMASIRA MUBASHER",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
+    },
+    {
       "title": "Madani Tv",
       "group": "ISLAMIC CHANNELS",
       "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     },
     {
-      "title": "Rongeen TV",
-      "group": "Kids",
-      "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
+      "title": "Travel XP English NZ",
+      "group": "Infotainment Channels",
+      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "title": "Bein Sports Tekrar",
+      "group": "FIFA World Cup 2026",
+      "url": "https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8"
+    },
+    {
+      "title": "Peace Tv English",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
     },
     {
       "title": "AL EKHBARIA",
@@ -1372,44 +1377,9 @@
       "url": "http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8"
     },
     {
-      "title": "Bein Sports Tekrar",
-      "group": "FIFA World Cup 2026",
-      "url": "https://ua.online24.pm/play/1103/350B326FB34F4B8/video.m3u8"
-    },
-    {
-      "title": "REAL WILD",
-      "group": "Documentary",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
-    },
-    {
-      "title": "ZB Cartoon",
-      "group": "Kids",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-    },
-    {
-      "title": "DW NEWS",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
-    },
-    {
-      "title": "AL ISTIQAMA",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
-    },
-    {
-      "title": "Sochi 24 HD",
-      "group": "Infotainment Channels",
-      "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
-    },
-    {
       "title": "AL QAMAR",
       "group": "ISLAMIC CHANNELS",
       "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
-    },
-    {
-      "title": "BAHRAIN QURAN",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
     },
     {
       "title": "Insight",
@@ -1417,24 +1387,34 @@
       "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
     },
     {
-      "title": "Peace Tv English",
+      "title": "Sochi 24 HD",
+      "group": "Infotainment Channels",
+      "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
+    },
+    {
+      "title": "REAL WILD",
+      "group": "Documentary",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
+    },
+    {
+      "title": "BAHRAIN QURAN",
       "group": "ISLAMIC CHANNELS",
-      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
     },
     {
-      "title": "France 24 English (720p)",
+      "title": "AL ISTIQAMA",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
+    },
+    {
+      "title": "DW NEWS",
       "group": "NEWS INTERNASIONAL",
-      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
     },
     {
-      "title": "pcv",
-      "group": "Bangladeshi",
-      "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
-    },
-    {
-      "title": "Press TV Iran",
-      "group": "NEWS INTERNASIONAL TV",
-      "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
+      "title": "ZB Cartoon",
+      "group": "Kids",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
     },
     {
       "title": "T Global News (Canada)",
@@ -1442,14 +1422,9 @@
       "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
     },
     {
-      "title": "Global News (US)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
-    },
-    {
-      "title": "CNN (US)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+      "title": "Rongeen TV",
+      "group": "Kids",
+      "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
     },
     {
       "title": "Colors Infinity SD",
@@ -1457,19 +1432,9 @@
       "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
     },
     {
-      "title": "NDTV NEWS",
+      "title": "CNN (US)",
       "group": "NEWS INTERNASIONAL",
-      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
-    },
-    {
-      "title": "DW English",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
-    },
-    {
-      "title": "Amazon SAT",
-      "group": "Infotainment Channels",
-      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
     },
     {
       "title": "France News 24",
@@ -1477,9 +1442,54 @@
       "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
     },
     {
+      "title": "France 24 English (720p)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+    },
+    {
+      "title": "DW English",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
+    },
+    {
+      "title": "News Max 2",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+    },
+    {
       "title": "Quran",
       "group": "FM REDIO",
       "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3"
+    },
+    {
+      "title": "Global News (US)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
+    },
+    {
+      "title": "pcv",
+      "group": "Bangladeshi",
+      "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
+    },
+    {
+      "title": "Amazon SAT",
+      "group": "Infotainment Channels",
+      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+    },
+    {
+      "title": "TRT WORLD",
+      "group": "NEWS INTERNASIONAL TV",
+      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "title": "Al Quran Radio",
+      "group": "Radio FM",
+      "url": "http://66.45.232.131:9994/;stream.mp3"
+    },
+    {
+      "title": "NDTV NEWS",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
     },
     {
       "title": "FASHION ONE",
@@ -1492,54 +1502,9 @@
       "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
     },
     {
-      "title": "News Max 2",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
-    },
-    {
-      "title": "Al Quran Radio",
-      "group": "Radio FM",
-      "url": "http://66.45.232.131:9994/;stream.mp3"
-    },
-    {
       "title": "NDTV English",
       "group": "NEWS INTERNASIONAL",
       "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
-    },
-    {
-      "title": "NK",
-      "group": "Indian Bangla News",
-      "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8"
-    },
-    {
-      "title": "Tom & Jerry TV",
-      "group": "CARTOON Drama",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "EWTN TV",
-      "group": "Relagion Channel",
-      "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8"
-    },
-    {
-      "title": "TRT WORLD",
-      "group": "NEWS INTERNASIONAL TV",
-      "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
-    },
-    {
-      "title": "NDTV Hindi",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
-    },
-    {
-      "title": "Times Of India",
-      "group": "NEWS INTERNASIONAL TV",
-      "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
-    },
-    {
-      "title": "Channel 7",
-      "group": "Utrun Broadband",
-      "url": "http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33"
     },
     {
       "title": "Arihant TV",
@@ -1547,14 +1512,29 @@
       "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8"
     },
     {
+      "title": "Tom & Jerry TV",
+      "group": "CARTOON Drama",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "NDTV Hindi",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+    },
+    {
+      "title": "NK",
+      "group": "Indian Bangla News",
+      "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8"
+    },
+    {
+      "title": "EWTN TV",
+      "group": "Relagion Channel",
+      "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8"
+    },
+    {
       "title": "Mr Bean Animated",
       "group": "CARTOON Drama",
       "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
-    },
-    {
-      "title": "Tom & Jarry",
-      "group": "KIDS",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
     },
     {
       "title": "Peace TV Urdu",
@@ -1562,19 +1542,44 @@
       "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
     },
     {
+      "title": "Channel 7",
+      "group": "Utrun Broadband",
+      "url": "http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33"
+    },
+    {
+      "title": "RT NEWS USA",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
+    },
+    {
       "title": "Zee Anmol TV",
       "group": "Hindi Movies",
       "url": "http://103.175.73.12:8080/live/256/256_0.m3u8"
     },
     {
-      "title": "AAKASH AATH",
-      "group": "Kolkata Bangla",
-      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+      "title": "RT News (EN)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+    },
+    {
+      "title": "Times Of India",
+      "group": "NEWS INTERNASIONAL TV",
+      "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+    },
+    {
+      "title": "Tom & Jarry",
+      "group": "KIDS",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
     },
     {
       "title": "R Plus Gold",
       "group": "Kolkata Bangla",
       "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
+    },
+    {
+      "title": "Press TV Iran",
+      "group": "NEWS INTERNASIONAL TV",
+      "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
     },
     {
       "title": "Big Magic",
@@ -1587,9 +1592,9 @@
       "url": "http://103.175.73.12:8080/live/270/270_0.m3u8"
     },
     {
-      "title": "Kolkata TV",
-      "group": "Indian Bangla News",
-      "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+      "title": "AAKASH AATH",
+      "group": "Kolkata Bangla",
+      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
     },
     {
       "title": "Goldmines Bollywood",
@@ -1597,9 +1602,9 @@
       "url": "http://103.175.73.12:8080/live/52/52_0.m3u8"
     },
     {
-      "title": "Freelancer",
+      "title": "Action Hollywood Movies",
       "group": "English Movies",
-      "url": "http://premimum.online/movie/jen12345/jen54321/353751.mp4"
+      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
     },
     {
       "title": "Greenland 2: Migration (2026) (Hindi)",
@@ -1607,29 +1612,19 @@
       "url": "http://premimum.online/movie/jen12345/jen54321/717746.mp4"
     },
     {
-      "title": "RT NEWS USA",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
+      "title": "Freelancer",
+      "group": "English Movies",
+      "url": "http://premimum.online/movie/jen12345/jen54321/353751.mp4"
     },
     {
-      "title": "RT News (EN)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+      "title": "YRF Music HD",
+      "group": "Unknown",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
     },
     {
       "title": "Surongo",
       "group": "Bangla Movies",
       "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv"
-    },
-    {
-      "title": "Action Hollywood Movies",
-      "group": "English Movies",
-      "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
-    },
-    {
-      "title": "Jana Nayagan (2026) (Hindi)",
-      "group": "Hindi Dabbing Movies",
-      "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4"
     },
     {
       "title": "Food Food",
@@ -1642,24 +1637,24 @@
       "url": "http://103.175.73.12:8080/live/155/155_0.m3u8"
     },
     {
-      "title": "E24",
-      "group": "Hindi Music",
-      "url": "http://103.175.73.12:8080/live/159/159_0.m3u8"
-    },
-    {
       "title": "Music India",
       "group": "Hindi Music",
       "url": "http://103.175.73.12:8080/live/158/158_0.m3u8"
     },
     {
+      "title": "Jana Nayagan (2026) (Hindi)",
+      "group": "Hindi Dabbing Movies",
+      "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4"
+    },
+    {
+      "title": "E24",
+      "group": "Hindi Music",
+      "url": "http://103.175.73.12:8080/live/159/159_0.m3u8"
+    },
+    {
       "title": "Goldmines Movies 2",
       "group": "Hindi Movies",
       "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
-    },
-    {
-      "title": "YRF Music HD",
-      "group": "Unknown",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
     },
     {
       "title": "Antarjal",
@@ -1682,14 +1677,39 @@
       "url": "http://103.225.94.27/Infobase/hdd-3/Hindi%20Dub/Test%20(2025)%201080p%20WEBDL.mp4"
     },
     {
+      "title": "Kolkata TV",
+      "group": "Indian Bangla News",
+      "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8"
+    },
+    {
+      "title": "Pritam and Pedro(S1E3)",
+      "group": "Web Series",
+      "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E03%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
+    },
+    {
+      "title": "Pritam and Pedro(S1E6)",
+      "group": "Web Series",
+      "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E06%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
+    },
+    {
+      "title": "Pritam and Pedro(S1E4)",
+      "group": "Web Series",
+      "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E04%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
+    },
+    {
+      "title": "Pritam and Pedro(S1E2)",
+      "group": "Web Series",
+      "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E02%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
+    },
+    {
+      "title": "Pritam and Pedro(S1E1)",
+      "group": "Web Series",
+      "url": "https://ftp.ctgfun.com/TV_Series/Pritam%20and%20Pedro/Pritam%20and%20Pedro%20S01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Pritam%20and%20Pedro%20S01E01%20Hindi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4"
+    },
+    {
       "title": "Gopal Bhar",
       "group": "Cartoons | 24/7",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Doraemon",
-      "group": "Bangla | 24/7",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "Motu Patlu",
@@ -1697,14 +1717,19 @@
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
     },
     {
-      "title": "Hindi Movies",
-      "group": "Hindi | 24/7",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
+      "title": "Doraemon",
+      "group": "Bangla | 24/7",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "South Movies",
       "group": "Hindi | 24/7",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Hindi Movies",
+      "group": "Hindi | 24/7",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "ATN News",
@@ -2712,19 +2737,14 @@
       "url": "https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8"
     },
     {
-      "title": "Day 1 World Feed [LIVE]",
+      "title": "West Indies Vs New Zealand [LIVE]",
       "group": "Fancode",
-      "url": "https://bd-mc-flive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784046365~_GO=Generated~acl=/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/*~Signature=AfBeBzglu5cIRaxjcOyBN7M765xEOxqk41iK87YNpcDSRloGW50xkFj-hsLRAIj477ByeVfVqJnzA17QMggHjqTdvpAO"
+      "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
     },
     {
       "title": "Day 1 World Feed [LIVE]",
       "group": "Fancode",
       "url": "https://bd-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784051465~_GO=Generated~acl=/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/*~Signature=AfBeBzhYrbbIjuJKRceXxtj2S20sqyUp-RdeIJuF_8Zsa-CE8L46exJQt5Fx3xGSdUgH9kKtgJSFul_-qbqYCGUN09gP"
-    },
-    {
-      "title": "West Indies Vs New Zealand [LIVE]",
-      "group": "Fancode",
-      "url": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
     },
     {
       "title": "West Indies vs New Zealand | New Zealand Tour of West Indies 2026",
@@ -3050,6 +3070,11 @@
       "title": "ATN News",
       "group": "Bangla News",
       "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8"
+    },
+    {
+      "title": "Channel 1 News 4K",
+      "group": "Bangla News",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
     },
     {
       "title": "Star News",
@@ -3927,6 +3952,11 @@
       "url": "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8"
     },
     {
+      "title": "GALAXY TV BD",
+      "group": "Bangla",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8"
+    },
+    {
       "title": "Jankhar TV",
       "group": "Bangla",
       "url": "https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8"
@@ -3957,6 +3987,11 @@
       "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8"
     },
     {
+      "title": "TIKANA TV",
+      "group": "Bangla",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
       "title": "Time Televis HD",
       "group": "Bangla",
       "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8"
@@ -3972,19 +4007,9 @@
       "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8"
     },
     {
-      "title": "BD | Jago News 24",
-      "group": "Bangla News",
-      "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8"
-    },
-    {
       "title": "BD | TBN 24 USA",
       "group": "Bangla News",
       "url": "http://cdn01.palki.tv/live/TBN24-M/index.m3u8"
-    },
-    {
-      "title": "IN | ABP Ananda",
-      "group": "Bangla News",
-      "url": "https://amg01412-xiaomiasia-abpananda-xiaomi-lzyzw.amagi.tv/playlist/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8"
     },
     {
       "title": "IN | Ananda Barta",
@@ -4029,7 +4054,7 @@
     {
       "title": "AccuWeather NOW",
       "group": "International News",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+      "url": "https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
     },
     {
       "title": "Al Jazeera English HD",
@@ -4049,7 +4074,7 @@
     {
       "title": "Bloomberg TV",
       "group": "International News",
-      "url": "https://bloomberg.com/media-manifest/streams/us.m3u8"
+      "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8"
     },
     {
       "title": "Bloomberg TV Live Event",
@@ -4105,6 +4130,11 @@
       "title": "GB News",
       "group": "International News",
       "url": "https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8"
+    },
+    {
+      "title": "HLN",
+      "group": "International News",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8"
     },
     {
       "title": "NBC News NOW",
@@ -4207,11 +4237,6 @@
       "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8"
     },
     {
-      "title": "ENT | Pardesi TV",
-      "group": "India",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-    },
-    {
       "title": "ENT | Shemaroo TV",
       "group": "India",
       "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8"
@@ -4290,6 +4315,11 @@
       "title": "MU | 9XM",
       "group": "India",
       "url": "https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8"
+    },
+    {
+      "title": "MU | Balle Balle",
+      "group": "India",
+      "url": "https://mcncdndigital.com/balleballetv/index.m3u8"
     },
     {
       "title": "MU | Desi Channel",
@@ -4384,7 +4414,7 @@
     {
       "title": "NEWS | ABP News",
       "group": "India",
-      "url": "https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8"
+      "url": "https://amg01412-xiaomiasia-abpnews-xiaomi-szg3x.amagi.tv/ts-eu-w1-n2/playlist/amg01412-xiaomiasia-abpnews-xiaomi/playlist.m3u8"
     },
     {
       "title": "NEWS | Amar Ujala",
@@ -4450,6 +4480,11 @@
       "title": "NEWS | K News India",
       "group": "India",
       "url": "https://legitpro.co.in/knews/index.m3u8"
+    },
+    {
+      "title": "NEWS | NDTV Hindi",
+      "group": "India",
+      "url": "https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8"
     },
     {
       "title": "NEWS | News18 India",
@@ -4524,7 +4559,7 @@
     {
       "title": "NEWS | Dunya News",
       "group": "Pakistan",
-      "url": "https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8"
+      "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8"
     },
     {
       "title": "NEWS | GNN",
@@ -4547,11 +4582,6 @@
       "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8"
     },
     {
-      "title": "EN | Action Hollywood Movies",
-      "group": "Movies",
-      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8"
-    },
-    {
       "title": "EN | AMC Triller",
       "group": "Movies",
       "url": "https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8"
@@ -4559,7 +4589,7 @@
     {
       "title": "EN | AMG TV (Classic)",
       "group": "Movies",
-      "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8"
+      "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
     },
     {
       "title": "EN | AVA FAMILY",
@@ -4692,11 +4722,6 @@
       "url": "https://mediapackage-three-plus-1-source.fullscreen.nz/index.m3u8"
     },
     {
-      "title": "EN | Toonami Aftermath Movie",
-      "group": "Movies",
-      "url": "http://api.toonamiaftermath.com:3000/movies/playlist.m3u8"
-    },
-    {
       "title": "OTHER | K Cine",
       "group": "Movies",
       "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8"
@@ -4719,7 +4744,7 @@
     {
       "title": "Adventure Earth",
       "group": "Educational",
-      "url": "https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8"
+      "url": "https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8"
     },
     {
       "title": "Alone By History",
@@ -5059,7 +5084,7 @@
     {
       "title": "EN | NOW 80's",
       "group": "Music",
-      "url": "https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8"
+      "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8"
     },
     {
       "title": "EN | Now Rock",
@@ -5099,7 +5124,7 @@
     {
       "title": "EN | Trace Urban",
       "group": "Music",
-      "url": "https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8"
+      "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
     },
     {
       "title": "EN | V2BEAT",
@@ -5149,7 +5174,7 @@
     {
       "title": "EN | XITE Hits",
       "group": "Music",
-      "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
+      "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8"
     },
     {
       "title": "HR | CMC TV",
@@ -5289,7 +5314,7 @@
     {
       "title": "EN | COURT TV",
       "group": "International",
-      "url": "https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
+      "url": "https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8"
     },
     {
       "title": "EN | Red Carpet TV International",
@@ -5469,12 +5494,7 @@
     {
       "title": "FB | FIFA+",
       "group": "Sports",
-      "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8"
-    },
-    {
-      "title": "FB | Goal TV",
-      "group": "Sports",
-      "url": "https://amg00585-sportstribal-amg00585c1-sportstribal-emea-2175.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-goaltv-sportstribalemea/playlist.m3u8"
+      "url": "https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D"
     },
     {
       "title": "FB | MORE THEN SPORTS TV",
@@ -5789,7 +5809,7 @@
     {
       "title": "0. Baby Shark TV",
       "group": "Kids",
-      "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8"
+      "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8"
     },
     {
       "title": "0. Hooray Rhymes",
@@ -132910,3341 +132930,6 @@
       "title": "The Passion Of Joan Of Arc (1928)",
       "group": "Movies - Other",
       "url": "http://cinehub24.com/ftp/Movies/french/The%20Passion%20Of%20Joan%20Of%20Arc%20%281928%29/The.Passion.Of.Joan.Of.Arc.1928.1080p.BluRay.x264-%5BYTS.AM%5D.mp4"
-    },
-    {
-      "title": "📺 Welcome",
-      "group": "Intro",
-      "url": "https://filexo.vercel.app/video/credit_developed_by_sultanarabi161.mp4"
-    },
-    {
-      "title": "BEIN SPORTS AFC [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363489&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 1 AFC [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363490&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 2 AFC [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363491&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 1 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363480&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 2 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363481&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 3 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363482&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 4 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363483&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 5 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363484&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 6 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363485&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 7 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363486&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 8 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363487&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS 9 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363488&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS XTRA 1 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363492&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS XTRA 2 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363493&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BEIN SPORTS XTRA 3 [AR]",
-      "group": "ARAB | BEIN SPORTS UHD",
-      "url": "http://xown.site/token/stream.php?id=1363494&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487889&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487890&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY AATH [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487905&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR JALSHA HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487893&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR JALSHA MOVIES HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487891&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR JALSHA MOVIES [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487892&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR JALSHA [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487894&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487887&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE FHD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539402&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487888&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE 24 GHANTA TV [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539401&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA SKY BANGLA HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539407&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY YAY [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539406&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY FHD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539405&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS18 BANGLA [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539404&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CALCUTTA NEWS [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539403&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS TIME [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539400&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS LIVE [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539399&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MANJARI TV [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1539398&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "24 GHANTA [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487898&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAKAASH [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487897&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ABP ANANDA [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487899&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487900&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY WORLD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487902&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ENTER 10 [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487896&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOX LIFE [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487903&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NAT GEO HD [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487901&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RPLUS [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487895&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SANGEET [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487906&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUN [BENGALI]",
-      "group": "INDIA | BENGALI",
-      "url": "http://xown.site/token/stream.php?id=1487904&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV USA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483931&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483930&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483928&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV FHD (BK) [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483929&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY SAB FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483937&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY SAB HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483936&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY PAL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483972&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY YAY [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483974&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY WAH [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483973&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY PIX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483971&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483932&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX FHD (BK) [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483933&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX 2 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483935&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX 2 HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483934&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR PLUS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483923&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR PLUS HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483922&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR BHARAT UK FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483948&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR BHARAT HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483925&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR BHARAT FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483924&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR UTSAV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483926&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR UTSAV MOVIES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483927&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483918&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483917&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD 2 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483919&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD 2 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545843&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD SELECT FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483921&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD SELECT HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483920&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD ROMANCE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484072&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD THRILLS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484069&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR GOLD THRILLS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545844&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR PRAVAH HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483946&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR VIJAY FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483947&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR VIJAY [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483945&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR JALSHA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483943&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR UTSAV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545810&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV PLUS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483944&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAPKA COLORS USA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483916&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483914&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS TV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483915&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS CINEPLEX BOLLYWOOD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484162&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS INFINITY FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545842&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483906&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483905&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TV USA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545805&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE ACTION [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483904&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE ANMOL CINEMA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483996&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE ANMOL HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483995&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE BIHAR JHARKHAND [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484169&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE BISKOPE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545806&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE BOLLWOOD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483911&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CAFE HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545854&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483909&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA SD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545855&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483910&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CLASSIC FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483912&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE ETC BOLLYWOOD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483998&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE HINDUSTAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483999&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE RAJASTHAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484029&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE SARTHAK [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545807&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TALKIES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545808&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE THIRAI TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545809&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE YUVA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484028&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY BEAUTY [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545812&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY COOKING [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545813&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY ENGLISH IN HINDI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545814&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY FITNESS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545815&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY FUN LEARN JUNIOR [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545816&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY FUN LEARN PRESCHOOL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545817&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY HI FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545845&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY HOLLYWOOD LOCAL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545846&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY JAVED AKHTAR [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545847&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY NEET PREP [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545818&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY ROMANCE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545848&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY SENIORS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545819&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY SHORTV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545849&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY SMART MANAGER [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545820&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY SOUTH TALKIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545850&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY VEDIC MATHS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545821&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY VIDESHI KAHANIYAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545851&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA PLAY ZINDAGI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545852&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA SKY THEATRE FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545853&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND TV USA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484035&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484034&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483903&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484033&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND PICTURES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484032&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND PICTURES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484031&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND FLIX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484030&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AND EXPLORER FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483970&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BBO HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483955&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DHAMAAL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484155&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "9X JALWA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483981&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "9X JALWA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484168&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "9X MUSIC [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483982&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "9X TASHAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483983&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "9XM [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483984&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ TAK TEZ [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483988&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ TAKTEZ HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483986&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AASTHA BHAJAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483994&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AASTHA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483991&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AASTHA TV USA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483993&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AASTHA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483992&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ADITHYA TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483959&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ANIMAL PLANET HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484036&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ANIMAL PLANET FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484037&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARIHANT [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484073&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ASIANET PLUS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483960&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ASIANET TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483961&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U KADAK [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483979&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MOVIES INDIA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483980&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MOVIES USA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483976&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MOVIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483975&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MUSIC USA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483978&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MUSIC [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483977&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BBC EARTH FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484174&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BBC EARTH FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484038&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BFLIX MOVIE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484159&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BOX CINEMA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484158&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CARTOON NETWORK [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484176&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEMA TV INDIA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484074&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEMA TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484075&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEMANIA 4K [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483901&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEMANIA GOLD 4K [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483900&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEPLEX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484039&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CINEPLEX HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484040&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COMEDY ACTIVE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484076&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DABANGG [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484077&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DANGAL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484078&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DARSHAN 24 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484156&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD BHARATI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484166&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD BHARTI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484051&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD BIHAR [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484042&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD INDIA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484043&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD KISAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484050&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD MP [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484044&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD NATIONAL FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484045&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD RAJASTHAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484046&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD SPORTS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484049&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD UP [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484047&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD URDU [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484048&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DILLAGII [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484165&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DINCHAAK 1 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483907&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DINCHAAK 2 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483908&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY JEET FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484058&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY WORLD FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484057&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484059&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISH CINE ACTIVE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484079&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISNEY CHANNEL [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484082&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISNEY JUNIOR [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484083&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISNEY SD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484081&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DIVYA TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484080&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "E24 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484154&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ENTER 10 MOVIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484085&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ENTERR 10 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484084&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EPIC HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484087&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EPIC HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484086&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "& FLIX HINDI FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545840&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "& PRIVE FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545841&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ANAADI TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545856&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CBEEBIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545823&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DANGAL 2 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545857&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DHAMAKA MOVIES B4U [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545858&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY KIDS HINDI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545824&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVERY SCIENCE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545825&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ETV CINEMA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545859&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GLOBAL PUNJAB TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545826&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GOLDMINES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545860&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GUJRATI CINEMA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545861&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HARYANVI BEATS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545827&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INVESTIGATION DISCOVERY [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545828&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JIO EXCLUSIVE FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545829&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JIO PRIME FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545862&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KBO [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545811&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MANORANJAN GRAND [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545863&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MN+ MOVIES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545864&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV BEATS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545822&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NICK HINDI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545830&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NICK JR HINDI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545831&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NICK SONIC HINDI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545832&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NICK+ FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545833&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PASAND [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545865&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PUNJAB TODAY FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545834&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ROMEDY NOW [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545866&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAGA MUSIC FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545839&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "THE Q ENTERTAINMENT [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545867&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TLC WORLD FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545835&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TRAVEL XP HINDI FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545836&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTV BINDASS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545868&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "VT SONIC KIDS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545837&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "YRF MUSIC FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1545838&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EVERGREEN CLASSIC HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484089&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOOD FOOD HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484056&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOX LIFE FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484090&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOX LIFE HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484091&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GANGA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484092&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HARE KRISHNA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484093&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HISTORY TV 18 FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484095&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HISTORY TV 18 HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484094&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HOUSEFULL ACTION FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484096&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HOUSEFULL MOVIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484097&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUNGAMA BOL HADIPA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484060&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUNGAMA DIL DE HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484061&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUNGAMA KADAK HITS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484062&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUNGAMA NAZRANA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484063&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUNGAMA POP PATAKA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484064&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ID [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484171&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "IND 24 [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484164&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA VOICE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484100&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ISHWAR TV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484101&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JAIHIND TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483962&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JAYA MOVIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483938&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JAYA TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483939&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JEEVAN TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483963&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KAIRALI TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483964&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KALAIGNAR TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483941&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KRISHNA VANI HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484065&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KTV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483942&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "LIVING FOODZ FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484066&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAA MOVIES FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483965&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAA TV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483966&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAHA MOVIE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484104&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAHA MOVIES [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484103&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAKKAL TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483949&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MANORANJAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484149&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MASTII [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484105&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MAX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484175&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MBO [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483957&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MINIPLEX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484106&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MN PLUS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484108&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MNX FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484109&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MOVIE HOUSE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484110&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MOVIE PLUS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484163&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MOVIES NOW FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484111&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTUNES PLUS HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484112&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV BEATS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484114&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV BEATS HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484115&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484117&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV PLUS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484116&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTV FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484118&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MUSIC INDIA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484119&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NAT GEO FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484067&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NAT GEO WILD FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484068&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NATION FIRST [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484148&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "OM SHANTI FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484124&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PARAS TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484125&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PATRIKA TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484129&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PEACE OF MIND [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484126&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "POGO KIDS [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484127&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "POLIMER TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483950&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PRARTHANA BHAWAN [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484128&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PUTHIYA THALAIMURAI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483940&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RUPASHI BANGLA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483951&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAB TV USA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483969&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAHARA ONE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484132&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAHARA SAMAY ALAMI [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484133&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SANSKAR TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484134&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SATSANG TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484135&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SHEMAROO TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484147&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SHOWBOX [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484136&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SHUBH CINEMA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484161&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SHUBH TV USA HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484054&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SHUBH TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484137&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUN MUSIC [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483952&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUN TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483953&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SURYA CINEMA FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484146&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUVARNA TV HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483967&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TATA SKY BOLLYWOOD FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484139&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TBO [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483902&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "THE Q YOU HD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484140&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "THEQ [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484145&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TOTAL TV USA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484055&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TV9 BHARATVARSH [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484144&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "VEDIC TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484141&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "VENDHAR TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483954&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WARNER BROS FHD [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484142&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WE TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483968&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WOW CINEMA ONE [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484143&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZING [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483913&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZOOM TV [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483990&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZOOM [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1483958&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CNBC AWAAZ [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484157&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TOTAL HARYANA [IN]",
-      "group": "INDIA | INDIA",
-      "url": "http://xown.site/token/stream.php?id=1484160&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484514&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY TV FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484515&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY SAB [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484525&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY SAB (BK) [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484526&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484523&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484522&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY MAX 2 [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484524&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV PLUS FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484513&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV PLUS [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484512&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV BHARAT [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484530&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV BHARAT (BK) [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484531&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV GOLD FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484521&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UTSAV GOLD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484520&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484516&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS HD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484518&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484517&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS BANGLA [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484537&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS CINEPLEX [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484541&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS CINEPLEX [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484565&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS GUJRATI [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484519&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS KANNADA [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484538&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS MARATHI [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484539&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "COLORS RISHTEY [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484536&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ TAK [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484546&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AASTHA [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484548&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ABP NEWS [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484547&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TV HD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484542&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE TV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484540&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA FHD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484543&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE CINEMA [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484544&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZING [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484545&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AKAAL [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484559&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MOVIES [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484532&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U MUSIC [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484533&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "B4U PLUS [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484534&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BRIT ASIA TV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484535&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ETV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484563&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOODXP [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484549&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS UP [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484564&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ITV GOLD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484562&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JAYA MAX [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484566&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KANSHI TV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484553&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KTV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484555&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MATV NATIONAL [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484550&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NDTV 24x7 [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484554&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 18 EN [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484527&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PITAARA (BK) [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484529&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PITAARA [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484528&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTC PUNJABI [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484556&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SANGAT [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484557&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SANKHYA TV [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484561&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SANSKAR [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484551&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SIKH CHANNEL [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484558&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TIMES NOW HD [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484560&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TRAVELXP [IN-UK]",
-      "group": "INDIA | INDIA UK",
-      "url": "http://xown.site/token/stream.php?id=1484552&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE BUSINESS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1483997&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ TAK HD [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1483987&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ TAK [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1483985&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DILLI AAJ TAKK [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1483989&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484027&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE NEWS BIHAR [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484000&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE NEWS MP & CH [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484002&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE NEWS MP [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484001&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ZEE NEWS UP [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484003&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NDTV PROFIT [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484123&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NDTV INDIA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484122&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NDTV GOOD TIMES [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484121&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NDTV 24x7 [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484120&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ABP GANGA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484173&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ABP NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484004&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ANB NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484167&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "APN NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484005&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD NEWS HD [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484041&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "E NEWS 24 [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484006&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ET NOW [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484088&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HINDI KHABAR [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484151&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "IBC 24 [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484098&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "IDN LOKMAT [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484099&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS HARYANA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484008&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS MP [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484009&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS RAJASTHAN [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484010&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS UP [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484011&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484007&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INDIA TV [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484153&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "INH 24X7 [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484152&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JANTA TV [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484102&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KNEWS INDIA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484026&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "LOK SABHA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484150&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MH1 NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484012&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MIRROR NOW [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484107&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 1 INDIA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484024&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 11 BHARAT [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484025&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 18 INDIA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484013&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 18 RAJASTHAN [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484014&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS 24 [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484015&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS NATION [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484016&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS STATE UP UK [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484023&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS STATE [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484017&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEWS X [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484018&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RAJASTHAN PATRIKA [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484130&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "REPUBLIC BHARAT [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484131&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "REPUBLIC NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484019&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SADHNA PRIME NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484022&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUDARSHAN NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484020&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEJ NEWS [IN]",
-      "group": "INDIA | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1484021&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "A SPORTS HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488088&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TSPORTS [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488092&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ASTRO CRICKET HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488091&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 1 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488112&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488113&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 1 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488114&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 2 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488115&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488116&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 2 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488117&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 3 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488118&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 3 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488119&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 3 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488120&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TEN 4 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488121&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 ENGLISH HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488094&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488098&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 HINDI HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488096&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488099&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 2 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488100&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488101&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 2 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488102&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 3 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488103&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 3 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488104&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS HINDI 1 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488095&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS HINDI 1 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488097&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS KANNADA [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488093&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 1 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488105&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488106&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 1 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488107&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 2 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488108&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488109&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS SELECT 2 [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488110&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS TAMIL [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488111&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "D SPORTS HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488089&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DD SPORTS [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488090&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW PREMIER SPORTS 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488129&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488122&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488123&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 3 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488124&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 4 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488125&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 5 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488126&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 6 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488127&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HK NOW SPORTS 7 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488128&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUB SPORTS 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488130&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUB SPORTS 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488131&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUB SPORTS 3 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488132&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MY SUPERSPORTS 1 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488133&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MY SUPERSPORTS 2 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488134&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MY SUPERSPORTS 3 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488135&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MY SUPERSPORTS 4 HD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488136&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SPORTS 18 FHD [SP]",
-      "group": "INDIA | SPORTS",
-      "url": "http://xown.site/token/stream.php?id=1488087&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RTA SPORTS HD [AFG]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1127572&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STARZPLAY / CRLIFE 1 FHD [AR]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1109344&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STARZPLAY / CRLIFE 1 HD [AR]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106877&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STARZPLAY / CRLIFE 2 FHD [AR]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1109345&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STARZPLAY / CRLIFE 2 HD [AR]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106876&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FOX CRICKET HD [AU]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104678&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ATN SPORTS [CA]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1425812&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FLOW SPORTS [CRB]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106879&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RUSH PLUS [CRB]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1127570&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "RUSH SPORT [CRB]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1127568&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SPORTSMAX [CRB]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106880&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SPORTSMAX 2 [CRB]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106881&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SKY SPORT 1 HD [NZ]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104679&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SKY SPORT 3 HD [NZ]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1127566&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SKY SPORT 4 HD [NZ]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104680&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "A - SPORTS HD [PK]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106883&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO SUPER [PK]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106886&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TENS SPORTS [PK]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1106878&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUB SPORTS 3 HD [SG]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1110614&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ASTRO CRICKET HD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104670&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SONY SIX HD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104671&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SPORTS 18 FHD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104676&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 ENGLISH HD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104673&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 1 HINDI HD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104672&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 2 HD [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104674&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "STAR SPORTS 3 [SPORTS]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104675&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SKY SPORTS CRICKET HD [UK]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104668&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUPERSPORTS CRICKET HD [UK]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104669&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WILLOW CRICKET [USA]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1104677&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WILLOW CRICKET EXTRA [USA]",
-      "group": "SPORTS | CRICKET",
-      "url": "http://xown.site/token/stream.php?id=1142110&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "92 NEWS EU [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488831&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "92 NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488809&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "92 NEWS HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488810&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488806&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAP NEWS HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488811&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ABB TAKK [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488844&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AJJ NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488823&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "APLUS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488838&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY NEWS (NA) [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488829&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY NEWS ASIA [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488828&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AWAZ ENTERTAINMENT [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488801&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BOL NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488812&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BOL NEWS HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488813&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CAPITAL TV [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488837&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CHANNEL 24 FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488836&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CITY 41 [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488832&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DAWN NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488807&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DUNYA NEWS EU [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488804&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DUNYA NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488805&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EXPRESS NEWS (NA) [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488816&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EXPRESS NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488808&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO NEWS (NA) [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488825&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488824&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO TEZZ [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488846&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GNN [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488845&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GTV NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488815&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GTV [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488834&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488826&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM NEWS HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488827&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KHYBER NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488830&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KTN NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488822&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "LAHORE NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488814&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "LAHORE RUNG HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488847&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEO NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488821&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV GLOBAL EU [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488841&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV HOME [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488842&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV NATIONAL [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488843&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488803&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV WORLD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488840&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PUBLIC NEWS FHD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488818&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PUBLIC NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488817&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ROZE TV HD [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488835&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAMAA NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488802&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SINDH NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488819&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SUNO NEWS [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488820&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "UK 44 [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488839&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "WASEB TV [PK]",
-      "group": "URDU | NEWS",
-      "url": "http://xown.site/token/stream.php?id=1488833&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "8XM [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488771&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "A - SPORTS FHD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488708&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "A - SPORTS HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488706&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "A - SPORTS [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488707&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV SPORTS FHD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488736&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PTV SPORTS HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488737&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TENS SPORTS [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488752&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAG TELEVISION (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488772&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AAJ ENTERTAINMENT [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488739&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AHLEBAIT TV EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488773&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AHLEBAIT TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488749&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AHLULBAYT TV EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488750&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AJJ ENTER [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488770&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "APNA CHANNEL [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488774&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY DIGITAL (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488734&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY DIGITAL ASIA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488733&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY FAMILY EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488732&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY MUSIK [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488731&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY QTV (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488730&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY QTV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488729&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY ZAUQ (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488735&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARY ZINDAGI [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488728&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ARYQ TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488800&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "AVT KHYBER [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488760&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BABY TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488797&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BOL ENTERTAINMENT HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488776&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BOL ENTERTAINMENT [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488775&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "BRITSH MUSLIM EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488777&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CARTOON NETWORK [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488769&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CITY 42 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488761&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "CITY 44 UK [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488768&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVER PAKISTAN FHD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488786&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DISCOVER PAKISTAN [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488794&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "DUNYA TV (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488738&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EXPRESS ENT [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488767&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "EXPRESS ENT [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488778&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FILM WORLD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488779&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "FILMAX [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488799&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO KAHANI [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488710&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO SUPER [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488711&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO TV (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488713&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO TV HD EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488714&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO TV HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488712&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "GEO TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488709&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 1 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488780&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 2 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488781&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 3 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488782&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 5 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488783&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 6 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488784&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HADI TV 7 HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488785&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HELLO CANADA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488705&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HIDAYAT TV EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488746&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM EUROPE [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488719&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM EUROPE [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488727&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488720&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM MASALA (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488722&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM MASALA EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488715&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM MASALA EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488723&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM MASALA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488721&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM PASHTO [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488724&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM SITARAY (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488725&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM SITARAY [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488718&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM TV (NA) [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488726&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM TV EUROPE HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488716&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HUM TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488717&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "HYDER TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488787&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "IQRA TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488759&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ISLAM CH URDU EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488788&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "ISLAM CHANNEL EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488745&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "JALWA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488766&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "K21 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488765&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KANSHI TV EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488789&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KASHISH [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488758&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KOHENOOR TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488757&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "KTN [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488756&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "LTN FAMILY [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488798&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MADANI CHNL BANGLA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488790&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MADANI CHNL ENG [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488747&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MADANI CHNL URDU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488762&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA-MUSLIM TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488791&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA WORLD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524572&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA EUROPE [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524571&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA ARABIA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524570&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA AFRICA 4 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524569&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA AFRICA 5 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524568&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA ASIA 6 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524567&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA ASIA 7 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524566&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "MTA AMERICA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1524557&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NEW VISION TV EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488748&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NICK [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488755&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NOOR TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488754&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "NOORTV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488763&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PAIGAAM TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488792&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PEACE TV URDU HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488795&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PLAY TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488793&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "PNN [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488796&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAMAA EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488741&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAMAA [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488740&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAUDI CH QURAN HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488743&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SAUDI CH SUNNA HD [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488744&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "SINDH TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488753&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TAKBEER TV [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488764&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "TV ONE EU [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488742&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "URDU 1 [PK]",
-      "group": "URDU | PAKISTAN",
-      "url": "http://xown.site/token/stream.php?id=1488751&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq"
-    },
-    {
-      "title": "https://t.me/NeoStream_livetv",
-      "group": "Join Telegram",
-      "url": "https://rr4---sn-npoldn7s.googlevideo.com/videoplayback?expire=1755382706&ei=Uq-gaNCxE-r2xN8P6tT4qA4&ip=193.222.50.200&id=o-AAmXATCFGyVYpW83-w0WGmICCFfXUI9hWIBMztLVvg01&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&siu=1&bui=AY1jyLOd_edqSsKIua1Wt3vi1BQ7CxZMGb4wdlBSvN91ob-9O97ExIcqEqC9anddiX_b7m4tKw&spc=l3OVKUbyPs5p-I3VOFrg&vprv=1&svpuc=1&mime=video%2Fmp4&ns=Pjd9E5tL3QvAQApy0W8_MhUQ&rqh=1&gir=yes&clen=1359300&ratebypass=yes&dur=24.055&lmt=1755329241139190&fexp=24350590,24350737,24350827,24351316,24351318,24351528,24352220,24352559,24352568,24352574,24352580,24352582,24352697,24352699,24352882,24352884,24352961,24352966,24352968,24353150,51548755,51565116,51565682&c=TVHTML5_SIMPLY_EMBEDDED_PLAYER&sefc=1&txp=6209224&n=T3uLg0q1WkjYng&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csiu%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAPTQvS1HnZxj1Z3g1VhnoiaTkgq0J6fOPyZENe9yBuvBAiAZo-msYVkGWlr3niP0YoTk75sgmDbUyYXvhnLHSwLJkg%3D%3D&title=August+16%2C+2025&redirect_counter=1&cm2rm=sn-4g5ekz7l&rrc=80&req_id=5f31036b8410a3ee&cms_redirect=yes&cmsv=e&met=1755367128,&mh=E5&mip=103.134.27.206&mm=34&mn=sn-npoldn7s&ms=ltu&mt=1755366405&mv=u&mvi=4&pl=24&rms=ltu,au&lsparams=met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIhALogMqVVrmtok1sNFe2MYiCRgCa6kAj25Q3mv3S7erUEAiBie-iIBrV3VQEEmSVjsZTLlfrAd-xNelTEuQSfw7WDeg%3D%3D"
-    },
-    {
-      "title": "Sony",
-      "group": "India",
-      "url": "http://goldenpro.xyz:80/live/51GYZ3Q/G0N5T14/72146.ts"
-    },
-    {
-      "title": "Anando tv",
-      "group": "Bangladesh",
-      "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDM6Mzk6MjIgUE0maGFzaF92YWx1ZT1kekJkd0V1ODBVK2h5Ym8vd0M2OUF3PT0mdmFsaWRtaW51dGVzPTQw|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDM6Mzk6MjIgUE0maGFzaF92YWx1ZT1kekJkd0V1ODBVK2h5Ym8vd0M2OUF3PT0mdmFsaWRtaW51dGVzPTQw"
     },
     {
       "title": "BTV",
