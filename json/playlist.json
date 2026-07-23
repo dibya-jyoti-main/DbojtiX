@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-07-23 17:26:52"
+    "generated": "2026-07-23 19:06:32"
   },
   "channels": [
     {
@@ -2782,14 +2782,19 @@
       "url": "https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8"
     },
     {
-      "title": "Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026",
-      "group": "Tapmad",
-      "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+      "title": "Atp 250 Millenium Estoril Open 2026 [LIVE]",
+      "group": "Fancode",
+      "url": "https://bd-mc-pdlive.fancode.com/mumbai/143512_english_hls_f0a7cbbf8d12306_1ta-di_h264/index.m3u8"
     },
     {
-      "title": "Uzbekistan vs Kazakhstan | CAVA Men's Volleyball Championship 2026",
+      "title": "Pakistan vs Bangladesh | CAVA Men's Volleyball Championship 2026",
       "group": "Tapmad",
       "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "title": "0. Doraemon",
+      "group": "Cartoon",
+      "url": "http://119.156.228.231:9983/stream/channelid/1324398660?ticket=7C95F3E4488C36F06FC0D96EDED00B3813CA10A9&profile=pass"
     },
     {
       "title": "0. Toon Goggles",
