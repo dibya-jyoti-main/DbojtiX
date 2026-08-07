@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-08-07 06:25:54"
+    "generated": "2026-08-07 09:31:42"
   },
   "channels": [
     {
@@ -5747,11 +5747,6 @@
       "url": "http://103.229.254.25:7001/play/a0dt/index.m3u8"
     },
     {
-      "title": "Jamuna TV (1080p)",
-      "group": "News",
-      "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8"
-    },
-    {
       "title": "Mohona TV (1080p)",
       "group": "General",
       "url": "https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8"
@@ -5820,11 +5815,6 @@
       "title": "Sangsad TV (1080p)",
       "group": "Legislative",
       "url": "https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8"
-    },
-    {
-      "title": "Somoy News TV (1080p)",
-      "group": "News",
-      "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8"
     },
     {
       "title": "Star Jalsha HD (720p)",
