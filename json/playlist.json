@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-08-08 05:37:42"
+    "generated": "2026-08-08 07:58:22"
   },
   "channels": [
     {
@@ -5827,9 +5827,14 @@
       "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8"
     },
     {
+      "title": "WOW Kidz (720p)",
+      "group": "Animation;Kids",
+      "url": "https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b"
+    },
+    {
       "title": "Zee Bangla HD (720p)",
       "group": "Entertainment",
-      "url": "http://217.20.112.199:8080/maamovies/index.m3u8"
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
     },
     {
       "title": "Zee Bangla Sonar (576p)",
