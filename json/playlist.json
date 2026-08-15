@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-08-15 10:36:15"
+    "generated": "2026-08-15 11:29:24"
   },
   "channels": [
     {
@@ -14,27 +14,27 @@
     {
       "title": "Day 1 - 1st Test - 15 Aug 2026 [ENG] - India Tour of Sri Lanka 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786814518~acl=/*~id=66557446829469676246060366309779~hmac=53a17fbf4b5160ff0430f66ca2477f7a0b98378cdbe69999883c7ae060b3608e"
     },
     {
       "title": "Day 1 - 1st Test - 15 Aug 2026 [HIN] - India Tour of Sri Lanka 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786814518~acl=/*~id=66557446829469676246060366309779~hmac=53a17fbf4b5160ff0430f66ca2477f7a0b98378cdbe69999883c7ae060b3608e"
     },
     {
       "title": "Day 1 - 1st Test - 15 Aug 2026 [TAM] - India Tour of Sri Lanka 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786814518~acl=/*~id=66557446829469676246060366309779~hmac=53a17fbf4b5160ff0430f66ca2477f7a0b98378cdbe69999883c7ae060b3608e"
     },
     {
       "title": "Day 1 - 1st Test - 15 Aug 2026 [TEL] - India Tour of Sri Lanka 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786814518~acl=/*~id=66557446829469676246060366309779~hmac=53a17fbf4b5160ff0430f66ca2477f7a0b98378cdbe69999883c7ae060b3608e"
     },
     {
       "title": "Day 1 - 1st Test - 15 Aug 2026 [KAN] - India Tour of Sri Lanka 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786814518~acl=/*~id=66557446829469676246060366309779~hmac=53a17fbf4b5160ff0430f66ca2477f7a0b98378cdbe69999883c7ae060b3608e"
     },
     {
       "title": "Ekushey TV",
@@ -439,197 +439,197 @@
     {
       "title": "Star Sports 1",
       "group": "Sports",
-      "url": "https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=MbkrfiK9w5UhPC3NYSGrWQ&expires=1786771478"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/star1in.m3u8?md5=KvGYLFxeIW5cURWxMg80-Q&expires=1786775467"
     },
     {
       "title": "Star Sports 1 Hindi",
       "group": "Sports",
-      "url": "https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=WyhEkLqz61GoWUZ1N0sWRw&expires=1786771478"
+      "url": "https://cdn5.zohanayaan.com:1686/hls/starhindi.m3u8?md5=H7EGb48eIemTPafP3YDIIw&expires=1786775468"
     },
     {
       "title": "PTV Sports",
       "group": "Sports",
-      "url": "https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=9e1p8QeOufc3aQ9r-Rq4VA&expires=1786771478"
+      "url": "https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=2ilVLTcdJkmJA37G10uTIw&expires=1786775468"
     },
     {
       "title": "Willow HD",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/willowusa.m3u8?md5=nvf2kfJqjUT-MIoGhJ95Dg&expires=1786771478"
+      "url": "https://cdn8.zohanayaan.com:1686/hls/willowusa.m3u8?md5=HdS5BD_-H-0HRjA1tqjFkw&expires=1786775468"
     },
     {
       "title": "Willow HD 2",
       "group": "Sports",
-      "url": "https://cdn9.zohanayaan.com:1686/hls/willowextra.m3u8?md5=6FYymjpPNuRTgJ8svXeDBQ&expires=1786771479"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/willowextra.m3u8?md5=aVhNpQb2mzBAzg5M2c4aog&expires=1786775468"
     },
     {
       "title": "Ten Sports",
       "group": "Sports",
-      "url": "https://cdn5.zohanayaan.com:1686/hls/tenspk.m3u8?md5=VCS_5-J_sSKStZy7ViHr-Q&expires=1786771479"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/tenspk.m3u8?md5=If7TaVSQei3mnERIa2sJDw&expires=1786775469"
     },
     {
       "title": "A Sports HD",
       "group": "Sports",
-      "url": "https://cdn5.zohanayaan.com:1686/hls/asportshd.m3u8?md5=x4D0bIZqOtFtr04m1Pa1yw&expires=1786771479"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/asportshd.m3u8?md5=XFwURBsdsKwcusvuUc70hw&expires=1786775469"
     },
     {
       "title": "Sky Sports Cricket",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/skyscric.m3u8?md5=yrUsadMCKmmwlkpCiBA-cg&expires=1786771479"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/skyscric.m3u8?md5=czIDmgQkqiu0sKb9p2cQXA&expires=1786775469"
     },
     {
       "title": "Sky Sports Main Event",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/skysme.m3u8?md5=yoylRd7H7sfaWKHLT7xo0g&expires=1786771480"
+      "url": "https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=_wXIO_-aS_CVc87rwABq-g&expires=1786775469"
     },
     {
       "title": "TNT 1",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=pTcX8sT7jB2NJJ74fkHy-Q&expires=1786771480"
+      "url": "https://cdn3.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=oxB630OW9q5I1B5OlUBVjg&expires=1786775469"
     },
     {
       "title": "TNT 2",
       "group": "Sports",
-      "url": "https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=1pkw6R2GXlgv-tff69Hfyg&expires=1786771480"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=jWExyIJ8mF_tGBvu5JIBiw&expires=1786775470"
     },
     {
       "title": "TNT 3",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=ntrPMgkp8WQJ5zrdjImf7A&expires=1786771480"
+      "url": "https://cdn4.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=3vRop3hgM_SIuTZ_pLmx-g&expires=1786775470"
     },
     {
       "title": "TNT 4",
       "group": "Sports",
-      "url": "https://cdn6.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=48PTAvcgsq2PrtcKyqEhDg&expires=1786771480"
+      "url": "https://cdn9.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=9OKA0YA0beHqBMtmdNWMDA&expires=1786775470"
     },
     {
       "title": "Sky Sport Nz 1",
       "group": "Sports",
-      "url": "https://cdn8.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=MDbNUjIghrCJ7wgW1OdTAQ&expires=1786771481"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=bWeZtDjVeUiu7sdyLTansw&expires=1786775470"
     },
     {
       "title": "Sky Sport Nz 2",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=SOU4JjRIQvijagJuU4iy5w&expires=1786771481"
+      "url": "https://cdn7.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=VfN13By2ILfJCuOH0CpnXA&expires=1786775470"
     },
     {
       "title": "Sky Sport Nz 3",
       "group": "Sports",
-      "url": "https://cdn3.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=5NDIHRXYu4K7ZnILjucG7g&expires=1786771481"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=emMc-5M_kxSA254ydQHgww&expires=1786775470"
     },
     {
       "title": "Sky Sport Nz 4",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=LPx7qvYXu_KNJVzJiMpVeQ&expires=1786771481"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=kQyCSdokW-6MLGJl4Z_r_Q&expires=1786775470"
     },
     {
       "title": "Sky Sport Nz 5",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=-hN9V6ktp_TWClNZaO9Xpw&expires=1786771481"
+      "url": "https://cdn5.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=fzBP9XjM_a0Pk0-OMxYoQw&expires=1786775471"
     },
     {
       "title": "Sky Sport 6 Nz",
       "group": "Sports",
-      "url": "https://cdn8.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=gdTtqXt0oHM8G4zZYzEN7Q&expires=1786771481"
+      "url": "https://cdn5.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=EPmxcH4IMxTrOowAHTxCfg&expires=1786775471"
     },
     {
       "title": "Sky Sport Nz 7",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=gUZln7ChIhCN9qEUjebhHg&expires=1786771481"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=lIL0xeAzoRJW8v1kdF3TRw&expires=1786775471"
     },
     {
       "title": "Sky Sport Nz 8",
       "group": "Sports",
-      "url": "https://cdn5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=04wi0cZRwe_M5tmmsuQblQ&expires=1786771482"
+      "url": "https://cdn4.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=UA8WW99IYcAMIdSYWphR_A&expires=1786775471"
     },
     {
       "title": "Sky Sport Nz 9",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=xc99SGfTWQO7azABwBwqXg&expires=1786771482"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=F7ncGw8bXTPkKAoEQnT5nA&expires=1786775471"
     },
     {
       "title": "Sky Sports Action",
       "group": "Sports",
-      "url": "https://cdn9.zohanayaan.com:1686/hls/skysact.m3u8?md5=QFC1X_grZo9MkslKCrrmVw&expires=1786771482"
+      "url": "https://cdn9.zohanayaan.com:1686/hls/skysact.m3u8?md5=vtX3et11008Q6zjnzaCC8g&expires=1786775471"
     },
     {
       "title": "Sky Sports Golf",
       "group": "Sports",
-      "url": "https://cdn8.zohanayaan.com:1686/hls/skysgol.m3u8?md5=z1-hxqmz-u2_wZzZHpHG3w&expires=1786771482"
+      "url": "https://cdn6.zohanayaan.com:1686/hls/skysgol.m3u8?md5=nSTv0kV8pZnsWiIWiEw2xg&expires=1786775471"
     },
     {
       "title": "Sky Sports Premier League",
       "group": "Sports",
-      "url": "https://cdn3.zohanayaan.com:1686/hls/skysprem.m3u8?md5=zV216GjASa2S7s_b4QBqFw&expires=1786771482"
+      "url": "https://cdn5.zohanayaan.com:1686/hls/skysprem.m3u8?md5=KRSxbnJqPLz110LKzIDJwA&expires=1786775472"
     },
     {
       "title": "Sky Sports Football",
       "group": "Sports",
-      "url": "https://cdn9.zohanayaan.com:1686/hls/skysfott.m3u8?md5=s1-4dLAYBXPCeadEH3cutA&expires=1786771482"
+      "url": "https://cdn1.zohanayaan.com:1686/hls/skysfott.m3u8?md5=Gb0QoDr_Yg9kgRPJw7XN6w&expires=1786775472"
     },
     {
       "title": "Sky Sports Plus",
       "group": "Sports",
-      "url": "https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=zmmkm-gJslhALUkHGa7bUQ&expires=1786771482"
+      "url": "https://cdn4.zohanayaan.com:1686/hls/skysare.m3u8?md5=rYjuDO-TW_nBignZi3aQCQ&expires=1786775472"
     },
     {
       "title": "Sky Sports F1",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=ph1KPTv7R6RwnTItusnwIw&expires=1786771482"
+      "url": "https://cdn6.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=rsLnOi6CXlr33MLZfMtiuQ&expires=1786775472"
     },
     {
       "title": "LaLiGA",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/laligauk.m3u8?md5=D-ZeIJXXlPlRij-oCWD-tA&expires=1786771483"
+      "url": "https://cdn6.zohanayaan.com:1686/hls/laligauk.m3u8?md5=7yglo0eaFJC69Ab8e9pLEQ&expires=1786775472"
     },
     {
       "title": "Premier Sports 1",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=HOpAlOc6-hiub2T3ujofhQ&expires=1786771483"
+      "url": "https://cdn3.zohanayaan.com:1686/hls/premieruk.m3u8?md5=HMzxKatw58KObZd-DNU7uQ&expires=1786775472"
     },
     {
       "title": "Premier Sports 2",
       "group": "Sports",
-      "url": "https://cdn5.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=XWnkSUyz9bp5j5Rk9ljVGA&expires=1786771483"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=hJmZiNg_qRcUSfhY9Hw4IA&expires=1786775472"
     },
     {
       "title": "Super Football",
       "group": "Sports",
-      "url": "https://cdn6.zohanayaan.com:1686/hls/superfotball.m3u8?md5=b3DiRf1azlExM7y1-h2x-Q&expires=1786771483"
+      "url": "https://cdn8.zohanayaan.com:1686/hls/superfotball.m3u8?md5=mOqrEtxgHPZh6SRBS6v3fA&expires=1786775472"
     },
     {
       "title": "Super Premier League",
       "group": "Sports",
-      "url": "https://cdn10.zohanayaan.com:1686/hls/superpremier.m3u8?md5=L9AzKfYQ440X1cFxKkHrOQ&expires=1786771483"
+      "url": "https://cdn7.zohanayaan.com:1686/hls/superpremier.m3u8?md5=fqBvSDvFCAiniA36VKy-yw&expires=1786775472"
     },
     {
       "title": "Astro Cricket",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/fox501.m3u8?md5=2U0LeZzw_mLtVMeh0fKkiQ&expires=1786771483"
+      "url": "https://cdn4.zohanayaan.com:1686/hls/fox501.m3u8?md5=pqUX3lX1Z13F2laoa9iSpg&expires=1786775473"
     },
     {
       "title": "ESPN 1",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/espnusa.m3u8?md5=BTTnGYybOvdZFLsJ041CDA&expires=1786771483"
+      "url": "https://cdn2.zohanayaan.com:1686/hls/espnusa.m3u8?md5=_1VmyMKuWqnqJIkXCH7lxw&expires=1786775473"
     },
     {
       "title": "ESPN 2",
       "group": "Sports",
-      "url": "https://cdn4.zohanayaan.com:1686/hls/espn2.m3u8?md5=pmiM3JMaQnWz_PweOAESow&expires=1786771483"
+      "url": "https://cdn7.zohanayaan.com:1686/hls/espn2.m3u8?md5=k_dqP58OXs5nEgbwbuxLpQ&expires=1786775473"
     },
     {
       "title": "Sky Sports Mix",
       "group": "Sports",
-      "url": "https://cdn1.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=FzzsuqmCtWlmdKThvqpf1w&expires=1786771484"
+      "url": "https://cdn5.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=Nj3CZGwsn9Jj3IdhcpnhSg&expires=1786775473"
     },
     {
       "title": "Sky Sports Tennis",
       "group": "Sports",
-      "url": "https://cdn6.zohanayaan.com:1686/hls/skystennis.m3u8?md5=1F9QS1sgR4aSSMkliION1Q&expires=1786771484"
+      "url": "https://cdn10.zohanayaan.com:1686/hls/skystennis.m3u8?md5=DCpULT2giUt2IQrThrPklw&expires=1786775473"
     },
     {
       "title": "Sony Sports3",
       "group": "Sports",
-      "url": "https://cdn7.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=9_dZPCwcli4jCRyt8KpH2Q&expires=1786771484"
+      "url": "https://cdn7.zohanayaan.com:1686/hls/ten1hd.m3u8?md5=kKnOVYSEhnZUeiQ_RxhVtA&expires=1786775473"
     },
     {
       "title": "Deshi TV (720p)",
@@ -637,19 +637,9 @@
       "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
     },
     {
-      "title": "ATN Music (360p)",
-      "group": "Unknown",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-    },
-    {
       "title": "Ananda TV",
       "group": "Unknown",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
-    },
-    {
-      "title": "My TV",
-      "group": "Unknown",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
     },
     {
       "title": "Channel S",
@@ -657,14 +647,14 @@
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
     },
     {
-      "title": "Boishakhi TV",
+      "title": "ATN Music (360p)",
       "group": "Unknown",
-      "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
     },
     {
-      "title": "RTV (720p)",
+      "title": "My TV",
       "group": "Unknown",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
     },
     {
       "title": "Gazi TV",
@@ -682,9 +672,9 @@
       "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
     },
     {
-      "title": "NTV (720p)",
+      "title": "RTV (720p)",
       "group": "Unknown",
-      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
     },
     {
       "title": "Maasranga TV (720p)",
@@ -692,14 +682,19 @@
       "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
     },
     {
-      "title": "Rajdhani TV (1080p)",
+      "title": "NTV (720p)",
       "group": "Unknown",
-      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
     },
     {
       "title": "RTV (720p)",
       "group": "Unknown",
       "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+    },
+    {
+      "title": "Rajdhani TV (1080p)",
+      "group": "Unknown",
+      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
     },
     {
       "title": "A Sports HD",
@@ -717,14 +712,9 @@
       "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8"
     },
     {
-      "title": "Channel 1 News HD",
+      "title": "Saudia Arabia",
       "group": "Cricket",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "Live Quran TV",
-      "group": "Cricket",
-      "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8"
+      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
     },
     {
       "title": "Motor Vision",
@@ -732,9 +722,9 @@
       "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
     },
     {
-      "title": "Saudia Arabia",
+      "title": "Channel 1 News HD",
       "group": "Cricket",
-      "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8"
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8"
     },
     {
       "title": "QAZ Sports HD",
@@ -742,24 +732,9 @@
       "url": "http://stream.mcquack.net/72/index.m3u8"
     },
     {
-      "title": "BBC Cbeebies",
-      "group": "Kids",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
-    },
-    {
-      "title": "FM Radio",
+      "title": "Live Quran TV",
       "group": "Cricket",
-      "url": "https://stream.spicefmbd.com/stream.m3u8"
-    },
-    {
-      "title": "Mundial Sports HD",
-      "group": "Football",
-      "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Bein Sports Direct HD",
-      "group": "Football",
-      "url": "http://145.239.5.177/557a/index.m3u8"
+      "url": "https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8"
     },
     {
       "title": "Arabica TV",
@@ -767,19 +742,9 @@
       "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8"
     },
     {
-      "title": "QURAN",
-      "group": "ISLAMIC CHANNELS",
-      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
-    },
-    {
-      "title": "Sunnah Tv",
-      "group": "ISLAMIC CHANNELS",
-      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
-    },
-    {
-      "title": "Cartoon Network",
-      "group": "Kids",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
+      "title": "Mundial Sports HD",
+      "group": "Football",
+      "url": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8"
     },
     {
       "title": "PBS Kids",
@@ -787,9 +752,39 @@
       "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
     },
     {
-      "title": "Unknown",
+      "title": "BBC Cbeebies",
+      "group": "Kids",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8"
+    },
+    {
+      "title": "Bein Sports Direct HD",
+      "group": "Football",
+      "url": "http://145.239.5.177/557a/index.m3u8"
+    },
+    {
+      "title": "Cartoon Network",
+      "group": "Kids",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8"
+    },
+    {
+      "title": "Sunnah Tv",
       "group": "ISLAMIC CHANNELS",
-      "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
+      "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
+    },
+    {
+      "title": "QURAN",
+      "group": "ISLAMIC CHANNELS",
+      "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
+    },
+    {
+      "title": "PTV Sports HD",
+      "group": "Cricket",
+      "url": "https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018"
+    },
+    {
+      "title": "AL SUNNAH TV",
+      "group": "ISLAMIC CHANNELS",
+      "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
     },
     {
       "title": "Somoy TV",
@@ -797,14 +792,14 @@
       "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8"
     },
     {
-      "title": "QURAN RADIOTV SMC",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
+      "title": "FM Radio",
+      "group": "Cricket",
+      "url": "https://stream.spicefmbd.com/stream.m3u8"
     },
     {
-      "title": "AL SUNNAH TV",
+      "title": "Unknown",
       "group": "ISLAMIC CHANNELS",
-      "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
+      "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
     },
     {
       "title": "AL EKHBARIA",
@@ -817,14 +812,9 @@
       "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
     },
     {
-      "title": "ALMASIRA MUBASHER",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
-    },
-    {
-      "title": "Madani Tv",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+      "title": "BTV",
+      "group": "Bangladeshi",
+      "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8"
     },
     {
       "title": "Travel XP English",
@@ -832,84 +822,9 @@
       "url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8"
     },
     {
-      "title": "PTV Sports HD",
-      "group": "Cricket",
-      "url": "https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018"
-    },
-    {
-      "title": "BTV",
-      "group": "Bangladeshi",
-      "url": "http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "AL QAMAR",
+      "title": "ALMASIRA MUBASHER",
       "group": "ISLAMIC CHANNELS",
-      "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
-    },
-    {
-      "title": "A SPOR",
-      "group": "Football",
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
-    },
-    {
-      "title": "AL ISTIQAMA",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
-    },
-    {
-      "title": "Colors Infinity SD",
-      "group": "Entertainment",
-      "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
-    },
-    {
-      "title": "REAL WILD",
-      "group": "Documentary",
-      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
-    },
-    {
-      "title": "Peace Tv English",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-    },
-    {
-      "title": "Insight",
-      "group": "Documentary",
-      "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
-    },
-    {
-      "title": "BAHRAIN QURAN",
-      "group": "ISLAMIC CHANNELS",
-      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
-    },
-    {
-      "title": "Global News (US)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
-    },
-    {
-      "title": "T Global News (Canada)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-    },
-    {
-      "title": "DW NEWS",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
-    },
-    {
-      "title": "France News 24",
-      "group": "NEWS INTERNASIONAL TV",
-      "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
-    },
-    {
-      "title": "FASHION ONE",
-      "group": "Entertainment",
-      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8"
-    },
-    {
-      "title": "FASHION ONE",
-      "group": "Entertainment",
-      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
+      "url": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
     },
     {
       "title": "AL EKHBARIA",
@@ -917,29 +832,49 @@
       "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8"
     },
     {
-      "title": "DW English _",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      "title": "Madani Tv",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
     },
     {
-      "title": "DW English",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
+      "title": "QURAN RADIOTV SMC",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8"
     },
     {
-      "title": "France 24 English (720p)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+      "title": "REAL WILD",
+      "group": "Documentary",
+      "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8"
     },
     {
-      "title": "Quran",
-      "group": "FM REDIO",
-      "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3"
+      "title": "DW NEWS",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
     },
     {
-      "title": "News Max 2",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+      "title": "AL QAMAR",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
+    },
+    {
+      "title": "Colors Infinity SD",
+      "group": "Entertainment",
+      "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8"
+    },
+    {
+      "title": "Insight",
+      "group": "Documentary",
+      "url": "https://insighttv-samsung-us.amagi.tv/playlist.m3u8"
+    },
+    {
+      "title": "Peace Tv English",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+    },
+    {
+      "title": "AL ISTIQAMA",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8"
     },
     {
       "title": "pcv",
@@ -947,9 +882,24 @@
       "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
     },
     {
-      "title": "Al Quran Radio",
-      "group": "Radio FM",
-      "url": "http://66.45.232.131:9994/;stream.mp3"
+      "title": "T Global News (Canada)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
+    },
+    {
+      "title": "Global News (US)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8"
+    },
+    {
+      "title": "Quran",
+      "group": "FM REDIO",
+      "url": "https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3"
+    },
+    {
+      "title": "BAHRAIN QURAN",
+      "group": "ISLAMIC CHANNELS",
+      "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8"
     },
     {
       "title": "TRT WORLD",
@@ -957,14 +907,49 @@
       "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
     },
     {
+      "title": "News Max 2",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+    },
+    {
+      "title": "DW English",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
+    },
+    {
+      "title": "DW English _",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+    },
+    {
+      "title": "France 24 English (720p)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+    },
+    {
+      "title": "A SPOR",
+      "group": "Football",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
+    },
+    {
+      "title": "FASHION ONE",
+      "group": "Entertainment",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8"
+    },
+    {
+      "title": "FASHION ONE",
+      "group": "Entertainment",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8"
+    },
+    {
       "title": "CNN (US)",
       "group": "NEWS INTERNASIONAL",
       "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
     },
     {
-      "title": "NDTV NEWS",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+      "title": "Al Quran Radio",
+      "group": "Radio FM",
+      "url": "http://66.45.232.131:9994/;stream.mp3"
     },
     {
       "title": "NDTV English",
@@ -972,9 +957,14 @@
       "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
     },
     {
-      "title": "Amazon SAT",
-      "group": "Infotainment Channels",
-      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
+      "title": "NDTV NEWS",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+    },
+    {
+      "title": "France News 24",
+      "group": "NEWS INTERNASIONAL TV",
+      "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8"
     },
     {
       "title": "NDTV Hindi",
@@ -982,24 +972,14 @@
       "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
     },
     {
-      "title": "Arihant TV",
-      "group": "Relagion Channel",
-      "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8"
-    },
-    {
-      "title": "BTV News",
-      "group": "Bangla",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8"
-    },
-    {
-      "title": "Channel-16",
-      "group": "Bangla Music",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8"
-    },
-    {
       "title": "Times Of India",
       "group": "NEWS INTERNASIONAL TV",
       "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8"
+    },
+    {
+      "title": "Amazon SAT",
+      "group": "Infotainment Channels",
+      "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
     },
     {
       "title": "EWTN TV",
@@ -1007,39 +987,24 @@
       "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/qrpsvkxl/720/chunklist.m3u8"
     },
     {
+      "title": "Arihant TV",
+      "group": "Relagion Channel",
+      "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8"
+    },
+    {
       "title": "Gopal Bhar TV",
       "group": "CARTOON Drama",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
     },
     {
+      "title": "Channel-16",
+      "group": "Bangla Music",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
       "title": "Motu Patlu",
       "group": "CARTOON Drama",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Peace TV Urdu",
-      "group": "Relagion Channel",
-      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
-    },
-    {
-      "title": "NK",
-      "group": "Indian Bangla News",
-      "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8"
-    },
-    {
-      "title": "Jalsha Movies",
-      "group": "Kolkata Bangla Movies",
-      "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8"
-    },
-    {
-      "title": "Doraemon TV",
-      "group": "CARTOON Drama",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Tom & Jerry TV",
-      "group": "CARTOON Drama",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "Live Sports",
@@ -1054,17 +1019,17 @@
     {
       "title": "Live Sports",
       "group": "Live Sports",
-      "url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
+      "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"
     },
     {
       "title": "Live Sports",
       "group": "Live Sports",
-      "url": "https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8"
+      "url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
     },
     {
-      "title": "R Plus Gold",
-      "group": "Kolkata Bangla",
-      "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
+      "title": "Jalsha Movies",
+      "group": "Kolkata Bangla Movies",
+      "url": "http://103.165.93.31:8095/jalshaMovies/index.m3u8"
     },
     {
       "title": "Live Sports",
@@ -1072,14 +1037,24 @@
       "url": "https://s2.itcnbd.live/server-2/proxy/ten_cricket/playlist?u=https%3A%2F%2Fbldcmprod-cdn.toffeelive.com%2Fcdn%2Flive%2Fslang%2Ften_cricket_576%2Ften_cricket_576.m3u8"
     },
     {
-      "title": "AAKASH AATH",
-      "group": "Kolkata Bangla",
-      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+      "title": "Tom & Jerry TV",
+      "group": "CARTOON Drama",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8"
     },
     {
-      "title": "Travel XP English NZ",
-      "group": "Information",
-      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
+      "title": "Doraemon TV",
+      "group": "CARTOON Drama",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Peace TV Urdu",
+      "group": "Relagion Channel",
+      "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+    },
+    {
+      "title": "R Plus Gold",
+      "group": "Kolkata Bangla",
+      "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
     },
     {
       "title": "Mr Bean Animated",
@@ -1087,14 +1062,29 @@
       "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
     },
     {
-      "title": "RTNEWS GLOBAL",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1"
+      "title": "AAKASH AATH",
+      "group": "Kolkata Bangla",
+      "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+    },
+    {
+      "title": "Sheemaroo Bollywood",
+      "group": "Hindi Movies",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
       "title": "Tom & Jarry",
       "group": "KIDS",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+    },
+    {
+      "title": "Travel XP English NZ",
+      "group": "Information",
+      "url": "https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8"
+    },
+    {
+      "title": "NK",
+      "group": "Indian Bangla News",
+      "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8"
     },
     {
       "title": "Zee Anmol TV",
@@ -1112,29 +1102,14 @@
       "url": "http://103.175.73.12:8080/live/270/270_0.m3u8"
     },
     {
-      "title": "Hindi Hits HD",
-      "group": "Hindi Music",
-      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
-    },
-    {
-      "title": "RT News (EN)",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
-    },
-    {
-      "title": "RT NEWS USA",
-      "group": "NEWS INTERNASIONAL",
-      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
-    },
-    {
-      "title": "Star Sports 1 HD",
-      "group": "Sports",
-      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
-    },
-    {
       "title": "Goldmines Bollywood",
       "group": "Hindi Movies",
       "url": "http://103.175.73.12:8080/live/52/52_0.m3u8"
+    },
+    {
+      "title": "Hindi Hits HD",
+      "group": "Hindi Music",
+      "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
       "title": "Food Food",
@@ -1142,9 +1117,9 @@
       "url": "http://103.175.73.12:8080/live/143/143_0.m3u8"
     },
     {
-      "title": "Jana Nayagan (2026) (Hindi)",
-      "group": "Hindi Dabbing Movies",
-      "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4"
+      "title": "Star Sports 1 HD",
+      "group": "Sports",
+      "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
     },
     {
       "title": "Freelancer",
@@ -1157,34 +1132,9 @@
       "url": "http://premimum.online/movie/jen12345/jen54321/717746.mp4"
     },
     {
-      "title": "Nat Geo HD",
-      "group": "Information",
-      "url": "http://202.70.146.135:8000/play/a05o/index.m3u8"
-    },
-    {
-      "title": "Sheemaroo Bollywood",
-      "group": "Hindi Movies",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
-    },
-    {
-      "title": "9XM",
-      "group": "Hindi Music",
-      "url": "http://103.175.73.12:8080/live/155/155_0.m3u8"
-    },
-    {
-      "title": "Music Mastii",
-      "group": "MUSIC",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "E24",
-      "group": "Hindi Music",
-      "url": "http://103.175.73.12:8080/live/159/159_0.m3u8"
-    },
-    {
-      "title": "Nursary Rhymes",
-      "group": "Kids",
-      "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+      "title": "Jana Nayagan (2026) (Hindi)",
+      "group": "Hindi Dabbing Movies",
+      "url": "http://premimum.online/movie/jen12345/jen54321/724489.mp4"
     },
     {
       "title": "Action Hollywood Movies",
@@ -1197,49 +1147,19 @@
       "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv"
     },
     {
-      "title": "Music India",
+      "title": "9XM",
       "group": "Hindi Music",
-      "url": "http://103.175.73.12:8080/live/158/158_0.m3u8"
+      "url": "http://103.175.73.12:8080/live/155/155_0.m3u8"
     },
     {
-      "title": "GAZI TV",
-      "group": "BANGLA",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8"
+      "title": "Nat Geo HD",
+      "group": "Information",
+      "url": "http://202.70.146.135:8000/play/a05o/index.m3u8"
     },
     {
-      "title": "Baallee",
-      "group": "MUSIC",
-      "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Star Sports-1 Hindi",
-      "group": "SPORTS",
-      "url": "https://starsportshindiii.pages.dev/index.m3u8"
-    },
-    {
-      "title": "Willow HD",
-      "group": "SPORTS",
-      "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
-    },
-    {
-      "title": "Desh TV",
-      "group": "BANGLA",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8"
-    },
-    {
-      "title": "RTV",
-      "group": "BANGLA",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "NHK World",
-      "group": "English News",
-      "url": "http://103.175.73.12:8080/live/417/417_0.m3u8"
-    },
-    {
-      "title": "YRF Music HD",
-      "group": "Unknown",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+      "title": "E24",
+      "group": "Hindi Music",
+      "url": "http://103.175.73.12:8080/live/159/159_0.m3u8"
     },
     {
       "title": "Sony TV HD",
@@ -1247,19 +1167,29 @@
       "url": "https://s2.itcnbd.live/server-2/stream/sonyentertainmnt_hd.m3u8"
     },
     {
+      "title": "YRF Music HD",
+      "group": "Unknown",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+    },
+    {
+      "title": "Nursary Rhymes",
+      "group": "Kids",
+      "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
+    },
+    {
+      "title": "Music India",
+      "group": "Hindi Music",
+      "url": "http://103.175.73.12:8080/live/158/158_0.m3u8"
+    },
+    {
       "title": "Goldmines Movies 2",
       "group": "Hindi Movies",
       "url": "https://cdn-2.pishow.tv/live/1460/master.m3u8"
     },
     {
-      "title": "Live Sports-3",
+      "title": "Star Sports-1 Hindi",
       "group": "SPORTS",
-      "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8"
-    },
-    {
-      "title": "EP tv",
-      "group": "BANGLA",
-      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8"
+      "url": "https://starsportshindiii.pages.dev/index.m3u8"
     },
     {
       "title": "B4U Movies",
@@ -1267,9 +1197,54 @@
       "url": "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8"
     },
     {
-      "title": "Star Sports-2",
+      "title": "Baallee",
+      "group": "MUSIC",
+      "url": "https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Music Mastii",
+      "group": "MUSIC",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "RT NEWS USA",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1"
+    },
+    {
+      "title": "RT News (EN)",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"
+    },
+    {
+      "title": "NHK World",
+      "group": "English News",
+      "url": "http://103.175.73.12:8080/live/417/417_0.m3u8"
+    },
+    {
+      "title": "RTNEWS GLOBAL",
+      "group": "NEWS INTERNASIONAL",
+      "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1"
+    },
+    {
+      "title": "GAZI TV",
+      "group": "BANGLA",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "title": "RTV",
+      "group": "BANGLA",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "title": "Desh TV",
+      "group": "BANGLA",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8"
+    },
+    {
+      "title": "Cowboy tv",
       "group": "SPORTS",
-      "url": "http://power8kse.xyz/s5b6tb5b8/c6a783a669/441103"
+      "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
     },
     {
       "title": "MBC tv",
@@ -1277,9 +1252,24 @@
       "url": "http://93.184.10.248/MBCBollywood/index.m3u8"
     },
     {
-      "title": "Cowboy tv",
+      "title": "Willow HD",
       "group": "SPORTS",
-      "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8"
+      "url": "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8"
+    },
+    {
+      "title": "EP tv",
+      "group": "BANGLA",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8"
+    },
+    {
+      "title": "Star Sports-2",
+      "group": "SPORTS",
+      "url": "http://power8kse.xyz/s5b6tb5b8/c6a783a669/441103"
+    },
+    {
+      "title": "Live Sports-3",
+      "group": "SPORTS",
+      "url": "http://151.80.18.177:86/Eurosport_HD/index.m3u8"
     },
     {
       "title": "Sony Yay",
@@ -1297,16 +1287,6 @@
       "url": "https://cdn-3.pishow.tv/live/1253/master.m3u8"
     },
     {
-      "title": "Colors",
-      "group": "Hindi",
-      "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
-    },
-    {
-      "title": "Bflix Movies",
-      "group": "Hindi",
-      "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
-    },
-    {
       "title": "Maasranga Tv",
       "group": "BANGLA",
       "url": "https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8"
@@ -1315,6 +1295,16 @@
       "title": "T-Sports [2]",
       "group": "SPORTS",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Colors",
+      "group": "Hindi",
+      "url": "https://cdn-2.pishow.tv/live/1461/master.m3u8"
+    },
+    {
+      "title": "Bflix Movies",
+      "group": "Hindi",
+      "url": "https://cdn-2.pishow.tv/live/1459/master.m3u8"
     },
     {
       "title": "South Movies",
@@ -4649,347 +4639,352 @@
     {
       "title": "TSports",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=77d88d8aea93d373cde2382ae4d162b238d2b378-e10a7faafde9c17bac3418ea51357997-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/1/index.m3u8?token=06a9bfc7b5ceeafb761389c48317543688d5365e-12d92b28aa197cb23a75175494919a51-1786781462-1786770662"
     },
     {
       "title": "T-Sports BK",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=8052269b5c63998f822ba2c5e0456a3963fdffd5-576fbe276bb3c30a1eb41ffb3cbb0005-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/t-sports/index.m3u8?token=2d9ce1a9addd3ef927ac8bef46f44a596fea6cf8-5db67824c0c042d4d800d580d324e904-1786781462-1786770662"
     },
     {
       "title": "Star Sports 1",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=9177a4eabfee06626bbd6a6003d778c774a0a282-ea5fa5893c726d65963f979235922ac8-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/7/index.m3u8?token=f1f32b0aadae1385074f100fa4abd0efade6e866-ab3e2108a30e0b426b69447fad032719-1786781462-1786770662"
     },
     {
       "title": "Star Sports 1 BK",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=d6a7ba7e2f2175f60871b7c207f12b0addfe9b81-0857d5ad397d69df154a7dcccc1f4255-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-1/index.m3u8?token=eff715e1f73b1d2491c19b408867111f28455bba-90e26eeb5e9e72b9b25a1b6b4c7764cf-1786781462-1786770662"
     },
     {
       "title": "Star Sports 2",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=78b072e9fb6c5974c92eb88e6d1145855245acd6-5c3bb66422f80d2cc4a45e79cf05a34b-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-sports-2/index.m3u8?token=25dea9dcff2e03fe40f8195e62e2d1a8e6cc0b3e-24d52e32595966c3e153cf5836f12930-1786781462-1786770662"
     },
     {
       "title": "Ten Cricket",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=78cf55e3b7d04eaacfd265077e451aab4256ae2c-fe3ffb05e9a5fb42be228d1d99ef12ae-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/4/index.m3u8?token=06b83136c2af8e0b64f56ba0ce8873404d12ab9f-7a11856328fde3a43bc7cdf6f90bd148-1786781463-1786770663"
     },
     {
       "title": "Unite8 2 HD FIFA",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=3878c47623357d59d859b161e14f31b2134c5050-4294c36f1e954cc68d2ea91fba154ad2-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/6/index.m3u8?token=e22816f31c19d2bbf36ab5315561b28c32c42f6d-f55b3f178bd30384af4ceb75184a351c-1786781463-1786770663"
     },
     {
       "title": "Unite8 1 HD FIFA",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=40d83f74af80c40567983edaa8c07ebbff597f35-66eeb34df4ec485efe5af240f33e6775-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/5/index.m3u8?token=3c9de6c4577cf1fba87cdb9848d348d617e80b4b-3cde20d3080f1efea77e90051f494d09-1786781463-1786770663"
     },
     {
       "title": "Sony Ten 1",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=61d6ce8fcdb6e60044b3adad4ea5ae5a666f54b5-e523dde1d7d6956733a2480d594a966c-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-1/index.m3u8?token=543a9c5f3849bc87f61014ebcac0deb8af7e2a30-25271f8e9a7436677bdae84c86bc476a-1786781463-1786770663"
     },
     {
       "title": "Sony Ten 2",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=c29af92d7c626590471c1bccd7b7cb12d9a48f97-6b89b7815d5416d8c5d555b178931f64-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-2/index.m3u8?token=72649d11ae121e5bd22d396863f2ed8a133d3990-79495e5c67acbb8f02a5c8fad7c1ecf3-1786781463-1786770663"
     },
     {
       "title": "Sony Ten 3",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=dfd631780e7df93bac56d913e2fbfda01a231930-7d3954e51737817d0b847963a2693131-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ten-3/index.m3u8?token=9abf3d22e13a39e9034d73c0c289e813850c57ad-860ae1bc33253f6724d1f649d470f16d-1786781463-1786770663"
     },
     {
       "title": "Star Sports Select 1",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=432b7a9631502bb6c9bfc6c9dbba72baa3599a96-f0e45f264af9a227fd5d338d5c549f02-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-1/index.m3u8?token=965a4606ed7e0f54527bf0a352ef459db59df56d-e6f7c1892085d34793bfcad57ec52584-1786781463-1786770663"
     },
     {
       "title": "Star Sports Select 2",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=1873bbe7e683383e4e6cc327677992fb65f4e683-18f16342e8a3ed7c2f502427868febce-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/spl-2/index.m3u8?token=c4d135af0b8ca9cfbaa7cb8e906d142bcce49a51-2fa1ff450d8235d5c465a70ecfeab59c-1786781463-1786770663"
     },
     {
       "title": "PTV spotrs",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=644ff129192f6e3c33ac318cdec742fc42e386b4-899d16127b6316871227cbf561d77192-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ptv/index.m3u8?token=c3840d7370dff9d260129136ad53de4e9a51f5fa-8162503ff375bb48866ed99429c4f35e-1786781463-1786770663"
     },
     {
       "title": "ASPORTS",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=2bc4f0a7ae3b37b6450efbfedfe920b47039afdd-099175196f2e8a322fce41c025f4d9ee-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/128/index.m3u8?token=511b2996e787c4b464002108f399224ca6fa50cb-84e986152a78ee460ef28bbdec99cd13-1786781463-1786770663"
     },
     {
       "title": "Star Jalsha",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=2811648ce2d0735b58ecb840834fde36243ca380-3bab5d5d7ab4410293efe0467d078e51-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/8/index.m3u8?token=f6bd9cc766f192e1032bc935e8437f7b03381100-e0723f6a1b596844512dd58294005ccc-1786781464-1786770664"
     },
     {
       "title": "Star Jalsha BK",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=23ed5f7ed89514dcb2e56a7ad66467314279539e-b332a980c01766317c9518878b260569-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-jalsha/index.m3u8?token=c1f1c2ae8b5ff0aa087603933f29f4c04e5ce5f9-f671ef0499484395c4accdc2d0b65b63-1786781464-1786770664"
     },
     {
       "title": "Star Jalsha Movies",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=fbf1b40f7f5347ad76b70531956b81e70d1e4704-d8b64e6e770be7bdc487b7d9f522fbc5-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jalsha-movies/index.m3u8?token=83d75408a26b76884c4f20230492433f36b5d673-57f1665f8d16010352fc2f3a0b2ce6ce-1786781464-1786770664"
     },
     {
       "title": "Zee Bangla",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=1f0f7e8fcbe6241ebfe68a16bce95af6dbffba60-f3efa7058cb8d72e21e8823ff311d736-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla/index.m3u8?token=7fa19c9f2e0ed58cf4a3f51efd120bed0c33bd5e-474900ec3856f64c5f4ad11ea2883b26-1786781464-1786770664"
     },
     {
       "title": "ZEE Bangla Cinema",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=99c175a70cb39fb511d7038f78b3fe4278e064f1-882a274cc342233b929b9be3774db6e3-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-bangla-cinema/index.m3u8?token=7785bd81e449ca4a5324817eef437fade18f8919-e54b9089d023d55581c827de564ddebc-1786781464-1786770664"
     },
     {
       "title": "Colors Bangla",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=04f7d536ed47abdb9657cdc9a476385f5957e12e-abbf7f61e16342a57d0614e18b92e659-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-bangla/index.m3u8?token=a2c73f0f46be2b2ef7050e74a782040f4afb3aaf-c532d5156a6fa19762606baa0751c31a-1786781464-1786770664"
     },
     {
       "title": "Sony Aath",
       "group": "inbangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-art/index.m3u8?token=c0f1b776fbbda4f142d321aa00722c3bb039221a-67ff03ff2f1c00eecb0b65b26883d046-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-art/index.m3u8?token=e9dffcc9612d3cd7654304493d547735530dee0a-83d332c5250d2432de32cc9803a598a5-1786781464-1786770664"
     },
     {
       "title": "Star Plus",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=a412308efa1bb16b69c656317ff57a2e31215635-0fe9e2b1592e14ae3d2a4af85a52b3cb-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-plus/index.m3u8?token=a0f3c65a2b5e887515d9f3d6ef4bf608d44b37d3-2045d175ef5f155b8c9f846b4694d330-1786781464-1786770664"
     },
     {
       "title": "Star Gold",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=9d171bed1de228a4407cb30ed697c9befc4d5771-9b3f2f5091cb9a84cc1da3ef3e9bbd72-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold/index.m3u8?token=79a0d86f21777f777ac5a4df8b64475b89b12190-f8f89ce59cb8b3d13564efe2d4bfb290-1786781464-1786770664"
     },
     {
       "title": "Star Gold Select",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=db8aa58f810ca0c86eb30596032da6869363634d-f5b7d06452ea294d6c39c56bd68b6e7e-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-tril/index.m3u8?token=5a4c1f6e9ed6ae1d77ffb22c8a77c18ab91cf7d3-561eb3ec402f500b0b3d20244108278e-1786781464-1786770664"
     },
     {
       "title": "Star Gold Romance",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=96e7235f6df03c16075eb0e033f85f4a5cc079b3-f5bc272593f7e7a5962e546095d6179a-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-gold-romance/index.m3u8?token=7735c1c4f5024a6279edb842fd047ee0e0c91820-3cde5460dc02952f5e9bb6be4fdb8eff-1786781465-1786770665"
     },
     {
       "title": "Sony Entertainment Television HD",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ent/index.m3u8?token=6bc51b2da6d5ab7363ac99a77c784be3c0c51b99-ac4e52b92c9674457f42357de3c5131f-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-ent/index.m3u8?token=aab6b85af632d108020820de082ce5ba7bb2518a-452b6c19ff707a0803f683d1c68c0498-1786781466-1786770666"
     },
     {
       "title": "Sony Max",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-max/index.m3u8?token=0373d45eb2a115e49c2949bc1065e592ee65f6f1-a8a10595b01142071508efc2b8942f77-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-max/index.m3u8?token=059fc8569303ea1dc8f16514f78f944ccc324db5-9efc0d46382621e6b6ea2b1131becef5-1786781465-1786770665"
     },
     {
       "title": "Colors",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=ecb618368485870df646b69562fb72bbb6474287-f339ef448c85860962d66e3ea3ce0314-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/colors-hin/index.m3u8?token=1340b5284e218edd9b3bd4e5ba985b990902f1e0-0c48bd135036f96c3fdc1551531785f1-1786781465-1786770665"
     },
     {
       "title": "Zee Cinema",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=b0a075ad817227fb81b44f92953427c2615b6957-badad0068812689812270bf2b33c5a47-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/zee-cinema/index.m3u8?token=be706eb8a65375a28f9ee48b3cf11a91412c3c14-bfe83456c8f6d146e6bda1a7b29127b9-1786781465-1786770665"
     },
     {
       "title": "And Pictures",
       "group": "hindi",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=47e5e4be1ac5c8ec25d4ee8bd3d0b338833366f4-78ed0bd44a6e8dcc4860c5c0dbc5aa06-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/and-picture/index.m3u8?token=c32b52f3e1ebc5e2022be86d05e6fb45c7433282-b0f9531ec8815b7ae2b76e3f845555ed-1786781466-1786770666"
     },
     {
       "title": "Movies Now",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=be63baa6efbd31c4c8abd56c75b61b90d0864e66-df71158c00cb0c862980b47823a04ca3-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/movie-now/index.m3u8?token=8847489bc75d85c2d7ae4ccdeb68f0ef2e831e29-b03d07321560627f007964f24208eadd-1786781466-1786770666"
     },
     {
       "title": "Sony Pix",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=13e63c9bbc0c047002aeae1d153411d2b2bd44bd-bbb735e853ccc3c96f5c3938748075ea-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sony-pix/index.m3u8?token=3024a9447cfe6b6180e6e82e3e44730725338eb8-775546605bead9c1981813f226d60530-1786781466-1786770666"
     },
     {
       "title": "Nick",
       "group": "kids",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=d96d3c8fe66372f1d4c1ddeda3daf6169af6ae58-fec2466180d446e9820def1282a3f158-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/nick/index.m3u8?token=a278da753e4c202dde5c537305094bba16162fe0-ef73eec626dee02e087b3f77ce970f59-1786781466-1786770666"
     },
     {
       "title": "Disney JR",
       "group": "kids",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=477f925fda427b900e386430a7ae5a98a0010563-42662015f4ef071d34ac603ee95f12ac-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/desne-junier/index.m3u8?token=96e777e87807a4aa7fbd7163d46cef877ddc8b52-15e62672a729c4c847262521c85abe0a-1786781466-1786770666"
     },
     {
       "title": "B4U Music",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=8010a2c0abe1d5d024c02e7d33b83322a2daace9-61e7d40727a7e9aa0a6574c195abe96f-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/b4u-music/index.m3u8?token=7ab93a6332eeba90ee217b63984f0a171930bdde-07dc2597fd05506e56d10957e4f281c0-1786781467-1786770667"
     },
     {
       "title": "Sangeet Bangla BK",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=13bd12eb94807223be9101d7d50727eab062d6c2-8e0f52b501d3617a8d672f9ddffca6e7-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/sangit-bangla/index.m3u8?token=5de08ffcb722c14b4a9bd17252c82dc7f5b59814-156f898efae557d3b582c8c0a40f7ce1-1786781467-1786770667"
     },
     {
       "title": "9x-jalwa",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=00292e5f298f0185f26b099bfc04e8e2d1a50086-56525389d8d297368ef337be8dde051a-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masti/index.m3u8?token=b51ed9a98c9cbc4fbfbfb5b23ca417eafe1f9921-f108ca7605a7cea6169ec10672d9630e-1786781467-1786770667"
     },
     {
       "title": "9xM",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=e1a61f9f20e787b825e48b0f5873b9aee117b277-c475ae7d0ceea27885c83effe8dcc3cc-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/9xm/index.m3u8?token=c936533ae0789ff438f4d4a2f1543309b9bf7b48-2219886e88b9210b3ece616b361fa5d1-1786781467-1786770667"
     },
     {
       "title": "Discovery HD",
       "group": "documentary",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=3d382c044428e83b56e99844bab374c201e1a251-d4dd04e36f101ae281366f6d41633013-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/discovery/index.m3u8?token=467e81432bea4ba6e09e45847b6ba598690f17a9-c9e95d42f80f9834b0eeae8e68c331d1-1786781467-1786770667"
     },
     {
       "title": "Natgeo",
       "group": "documentary",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=6e3e94dd27c9fa1d987cfc8f2500506b1b437d40-d745db15d5797a05c24b988981566e13-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ngo-gerophy/index.m3u8?token=a9f2bb008e55448c90a5986d34b3a4f4df9125a7-e6b7a57e65648da54fca0c33f19f76d9-1786781467-1786770667"
     },
     {
       "title": "Star Movies",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=c6dbdb63ac4c64da2dd5b21426326baa61121387-dbbe277d104604bb43018d26de234dab-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/star-movie/index.m3u8?token=ff58f423463b3119679f070ec5ee845ba9feee6e-8109c9322317a92cf05cd2f8e7700271-1786781467-1786770667"
     },
     {
       "title": "Somoy TV",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/2/index.m3u8?token=631595fbbab3426c846d8d2b97f65b58c35af229-98586a3d2238163295c2bec749cdc662-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/2/index.m3u8?token=17adf728ead9604978146f1a2290c327faecd326-429223ea6be676f3563dbe52144e0ef6-1786781467-1786770667"
     },
     {
       "title": "Somoy TV BK",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/somoy-news/index.m3u8?token=f6f65147369720a6ebc33c7090d38516304d4aef-0748952960bfb990ad1937078e64a497-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/somoy-news/index.m3u8?token=8f46eee4455adf10a83fb8492fbc583b107d0117-0e5e3799f621c6ac525af2ed9456ae18-1786781467-1786770667"
     },
     {
       "title": "Gazi TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=550f4a971e38d626aeca3d5b1ab421ace14c44d1-cd54a7a189ea2ff710d10540fa7e0aac-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/gtv/index.m3u8?token=e8998c22d726fffcaff75651942e05a34eb69272-48d3dedffe7ed7ee34e843072f1c04c8-1786781467-1786770667"
     },
     {
       "title": "BTV",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=4e4f737f556badbf43194cec39d01a614b3c83bd-b647a4ed266127adb9627228b4d96fc1-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=fbdb7c670add238acba6bbfee98f5f6f7f7cfbed-a3f6db596f7c34a2c10428c724c8a7f5-1786781468-1786770668"
     },
     {
       "title": "Ekattor TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ekattor-tv/index.m3u8?token=af44fe23708709509f19804cfe0bcaeb9ec7a867-c7f78aa35e1d3e8ca9d73a5e7bd8fc1d-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ekattor-tv/index.m3u8?token=9455f0bc530f07d06c2956b77e2f8ddb0ff3299c-762afcd10a52dc22e457d03a14937ed3-1786781468-1786770668"
     },
     {
       "title": "ATN Bangla",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-bangla/index.m3u8?token=c3b6fb4f94fafc4b5bff2921a511b8f80f29a67b-da27548ea203badfd5d21661e469cffc-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-bangla/index.m3u8?token=569cbd805d487dfb717e7b15e3b090218b9850da-2699c4e5a1e85a66c4c94c3386868738-1786781468-1786770668"
     },
     {
       "title": "ATN NEWS",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=ff6e969a6f40187e575adf6c8831592c4f09de2f-74196a7eee46da67ead722f8008d0731-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/atn-news/index.m3u8?token=c891905f4769fbc5f48cfbe727d2cdb5a434bace-f42af0715670ce25f522a487691765bc-1786781468-1786770668"
     },
     {
       "title": "DBC News",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=e08b2d1218d8fcd52283103696d5461d61cf6513-30e00e058f369af88e9aa1606e41d0ae-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/dbc-news/index.m3u8?token=527776ffc5de90a18f363988c568c3f29d9efcb9-afa4871e47bcf55726d81206b9b8e040-1786781467-1786770667"
     },
     {
       "title": "Maasranga",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=39fb5102ac554cdc58593c45b454df8615a73b38-a122d66752de8b9c38feda6d9604f85b-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/masranga-tv/index.m3u8?token=db24a87a9917825dc6fec18320640a09ff39a28f-6356e1e8734773ec027e736198afa375-1786781470-1786770670"
     },
     {
       "title": "Channel I",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/channel-i/index.m3u8?token=06bb09dc9d842615d3b3eef460964d505e903ac1-c642de975365712218e0935ae2280b9a-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/channel-i/index.m3u8?token=6b7c9d7733af2fe2b08ff0141a3bd3928d95ff52-89663a1b024d00af98cff11aced7c3ae-1786781470-1786770670"
     },
     {
       "title": "NTV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ntv/index.m3u8?token=c54a344c5f601acf2b2aa2b9af0479031f3cfc71-9001187a248c4372d256daba3dec22aa-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/ntv/index.m3u8?token=fae413e2c62497f308ca3215c689b821e9a3c956-9387acb44a420ba9bf553fab4ef6c2c9-1786781470-1786770670"
     },
     {
       "title": "Jamuna TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jamuna-tv/index.m3u8?token=83f46bb5b760e7b5883735bbad5c5ac0b9729b52-7b1e3f08f01269b91a38b609bac00b6e-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/jamuna-tv/index.m3u8?token=6611687270726b1d72605507348aec19d1656927-4a550b8b9c4d647f990763c5d7bb0e82-1786781470-1786770670"
     },
     {
       "title": "RTV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=c66f256925f9a63bde38519edd74fc7e502c0a9a-230edc979f720f93389102663339ff19-1786776842-1786766042"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/rtv/index.m3u8?token=df83138a6febe0eeafab7f440b3a89ea30cb65fc-209c78c2a1c2b4aaf1fec464b45f47cb-1786781470-1786770670"
     },
     {
       "title": "Boishakhi TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=df85df15d8acd18f5496f2b831debf4ecdbc2c82-94c62a846a1a287142d6396b86599736-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/boishaki-tv/index.m3u8?token=919bf3a3d73751b1eaeffa3de5643ee050d16b02-6ef726924142d2bbb6c24cfc7c94f271-1786781470-1786770670"
     },
     {
       "title": "Banglavision TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=4d46a0bfa3db90fcede29353b515950bc8d98c34-204f62bbb5244e0779a0446b81e34f95-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge7/banglavision-tv/index.m3u8?token=645ca991ece734ff811103cae725605c9e6d880a-3952f3c502502ed493415d4fae24faa6-1786781470-1786770670"
     },
     {
       "title": "Deepto TV",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=2c8e806f008fd00141d6cf1a70a83b886a79920a-466ed65e23256521ba0ac7f88e2f7332-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge6/deepto_tv/index.m3u8?token=d610f515d1dc7c3937bd609f43536742b910a22b-a81aa8e8a0b172ba02e754859c811ffb-1786781470-1786770670"
     },
     {
       "title": "Sangeet Bangla",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=6f7dbf8496c35f378d9505e309e8eb6be3d88165-d25adc87e2deede4059573b58cc8e8de-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/sangeet-bangla/index.m3u8?token=f479822488e9e16e82f2487d04cee7f330d0ec7b-1183647033b008a4a6e3c71a8349378b-1786781470-1786770670"
     },
     {
       "title": "Music India",
       "group": "music",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=b47ce34f96ea59a3c074abe7327a09e89a1a8701-91c030e28eead6d5f61f5220fa20c578-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/music-india/index.m3u8?token=7ead74efc8c972a47010ee96cc96382ae9d4ec40-e6020915175758baef3c8c291cafd5bb-1786781470-1786770670"
     },
     {
       "title": "DD Sports",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=29e394c392a7dd00ad2fc6e68ba0d455b5596958-c1dee5c5f8cf19ae97752ff97e46a011-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=5d132bfb7e5dab0f3fd528404777256c1effb506-472c03a24b2b3625fe410bee4acde233-1786781471-1786770671"
     },
     {
       "title": "NBC Sports",
       "group": "sports",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=3a2aca3983892c9b16b140f3a55264e7f81943c0-4cedcb67da9c4135806a218b382fb62c-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=562c07687c2bc4a6f9ebb16d2535f57f1301afa4-c0d4542ceaed009c203a249cef5fc5ca-1786781471-1786770671"
     },
     {
       "title": "DD Bangla",
       "group": "bangla",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=0dfe37e46fdd97bc72c60a925c37b3de83a82a21-f3fdb92e6b0f1ff32abb405773f89acf-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dd-bangla/index.m3u8?token=9e72a148ec4a6e883b47bc6baa01823746885ec1-d12369dcdaa7b65c04f0b925882440d2-1786781471-1786770671"
     },
     {
       "title": "Wild TV",
       "group": "documentary",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=837ec2630b0b398d9fd9e604d4c5359207a27dd6-36eddd9efde26d14be71ce59290004fc-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/wild-tv/index.m3u8?token=fb6d69104f5dff655835886ea3fc208123269f2c-edf0d2f8b8bc4919f7b8d0f8defa64bb-1786781471-1786770671"
     },
     {
       "title": "4k Travel",
       "group": "documentary",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=48960fd9ddfff6992e8bd5d50f9567935066e6b9-326d09a4706495e76902c9427d6b34e4-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/4k-travel/index.m3u8?token=04c9af624b125390ede32f9f3c09296110729585-d115e61c1b461b5ece17758757afdb80-1786781471-1786770671"
     },
     {
       "title": "Travel XP",
       "group": "documentary",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=c4bab4683c526f9cf6734a8d21d82ba7fb88e3f3-ac7e09da14298723998c967d7a23df50-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/travel-xp/index.m3u8?token=dc117ea68a9a9bc415bc8363e5e0e51c9ccba2d3-f5848812a234da8f7fbf81b8a6568942-1786781471-1786770671"
     },
     {
       "title": "DW NEWS",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=398c9fe2f0929df69a775b3bff6dbd3b2e656e27-d226cf1def054f7439ddb2c7128ca190-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/dw-news/index.m3u8?token=a2ccc11fd5dd0cb9cde94f5b39dd987c025bdd69-4e45868752a54a18de955c37ad72dc88-1786781471-1786770671"
     },
     {
       "title": "TRT World",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=968aaf3480a66ceb49c0074f7124758d0585da49-b7f12052a8bccce3b1b02e0e639b44c7-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/trt-world/index.m3u8?token=f2bb71d30f9656b1a642d97e9103635c33bf9e70-3e25f27565d2957e0c94af4173d957f1-1786781471-1786770671"
     },
     {
       "title": "Fox Weather",
       "group": "english",
-      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=85d44a9dff4c3f6e22947b14978f612e18e933b2-01c2f6e599abb187c42917d6a2a24568-1786776843-1786766043"
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/fox-weather/index.m3u8?token=eb79dedf2c20d9342d4ea5c90dd293172accd09f-960ac1d30d0efe836ffa330f21606686-1786781471-1786770671"
+    },
+    {
+      "title": "Oman Sports TV",
+      "group": "sports",
+      "url": "https://edge2.roarzone.net:8447/roarzone/edge5/oman-sports-tv/index.m3u8?token=8acc425d659cd10b0e499bba5815faeb218d2cd2-fe82c477f3cc7d5e86e3ee0f03953d24-1786781471-1786770671"
     },
     {
       "title": "https://t.me/NeoStream_livetv",
@@ -5115,6 +5110,11 @@
       "title": "Bangla Vision (720p)",
       "group": "General",
       "url": "https://tvsen5.aynaott.com/banglavision/index.m3u8"
+    },
+    {
+      "title": "Boishakhi TV",
+      "group": "General",
+      "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
     },
     {
       "title": "Channel S (576p)",
