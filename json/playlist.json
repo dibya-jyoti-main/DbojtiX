@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-08-27 06:35:27"
+    "generated": "2026-08-27 17:03:32"
   },
   "channels": [
     {
@@ -5055,6 +5055,11 @@
       "title": "Rupashi Bangla TV (720p)",
       "group": "Entertainment",
       "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8"
+    },
+    {
+      "title": "Star Jalsha HD (720p)",
+      "group": "Entertainment",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8"
     },
     {
       "title": "Vokta TV (720p)",
