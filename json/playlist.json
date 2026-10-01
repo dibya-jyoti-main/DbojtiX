@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-10-01 03:22:42"
+    "generated": "2026-10-01 06:45:44"
   },
   "channels": [
     {
@@ -5512,9 +5512,19 @@
       "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
     },
     {
+      "title": "Express News (576p)",
+      "group": "News",
+      "url": "http://51.75.127.199:3141/expressnews/index.m3u8"
+    },
+    {
       "title": "Gazi TV (1080p)",
       "group": "General",
       "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8"
+    },
+    {
+      "title": "Jalsha Movies (576p)",
+      "group": "Movies",
+      "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8"
     },
     {
       "title": "Madani Channel Bangla (1080p)",
@@ -5532,9 +5542,19 @@
       "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
     },
     {
-      "title": "National Geographic (India) (576p) [Geo-blocked]",
+      "title": "National Geographic (India) (576p)",
       "group": "Documentary",
-      "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla"
+      "url": "http://51.75.127.199:3141/natgeo/index.m3u8"
+    },
+    {
+      "title": "National Geographic (India) HD (1080p)",
+      "group": "Documentary",
+      "url": "http://51.75.127.199:3141/natgeohd/index.m3u8"
+    },
+    {
+      "title": "National Geographic Wild (India) (576p)",
+      "group": "Documentary",
+      "url": "http://51.75.127.199:3141/natgeowild/index.m3u8"
     },
     {
       "title": "News 21 Bangla TV",
@@ -5572,9 +5592,9 @@
       "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
-      "title": "Star Jalsha (576p) [Geo-blocked]",
+      "title": "Star Jalsha (576p)",
       "group": "Entertainment",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV"
+      "url": "http://51.75.127.199:3141/starjalsha/index.m3u8"
     },
     {
       "title": "Star Jalsha HD (720p)",
@@ -5587,9 +5607,9 @@
       "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8"
     },
     {
-      "title": "Zee Bangla HD (720p)",
+      "title": "Zee Bangla HD (1080p)",
       "group": "Entertainment",
-      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
+      "url": "http://51.75.127.199:3141/zeebanglahd/index.m3u8"
     },
     {
       "title": "Zee Bangla Sonar (576p)",
