@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-10-11 12:15:50"
+    "generated": "2026-10-11 19:20:26"
   },
   "channels": [
     {
@@ -12,29 +12,34 @@
       "url": "https://playztv.pages.dev/promo/master.m3u8"
     },
     {
-      "title": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [ENG] - UFC Fight Night - Allen vs Duncan",
+      "title": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG] - MG Indian Super League 2026-27",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
     },
     {
-      "title": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [HIN] - UFC Fight Night - Allen vs Duncan",
+      "title": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN] - MG Indian Super League 2026-27",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
     },
     {
-      "title": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TAM] - UFC Fight Night - Allen vs Duncan",
+      "title": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL] - MG Indian Super League 2026-27",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
     },
     {
-      "title": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TEL] - UFC Fight Night - Allen vs Duncan",
+      "title": "Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG] - Volleyball Championship League 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
     },
     {
-      "title": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [KAN] - UFC Fight Night - Allen vs Duncan",
+      "title": "Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN] - Volleyball Championship League 2026",
       "group": "Live Event",
-      "url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
+    },
+    {
+      "title": "Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG] - DP World Tour",
+      "group": "Live Event",
+      "url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791766861~acl=/*~id=12291645653528284568369596438227~hmac=40a060b39b3d2df9932d6e3eacc586af53143093cfca89cd6d95cd47906bfcc8"
     },
     {
       "title": "Ekushey TV",
@@ -77,12 +82,12 @@
       "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8"
     },
     {
-      "title": "T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)",
+      "title": "T Sports (1080p) (1) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2) (2)",
       "group": "Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "title": "T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)",
+      "title": "T Sports (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3) (3)",
       "group": "Sports",
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8"
     },
@@ -157,17 +162,17 @@
       "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8"
     },
     {
-      "title": "w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/f030066c-0649-4d82-836f-c85321381d67.png\",[BD] EPL channel 1",
+      "title": "w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/934ea258-bba9-4051-81ef-0cfa7c57ecb7.png\",[BD] EPL channel 1",
       "group": "[LIVE] BDIX ♛",
       "url": "https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8"
     },
     {
-      "title": "w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/da539733-ed09-4106-9215-304dfbf6566a.png\",[BD] EPL channel 2",
+      "title": "w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/e6afd472-68ac-4047-a7b3-f38b0aa73d2d.png\",[BD] EPL channel 2",
       "group": "[LIVE] BDIX ♛",
       "url": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8"
     },
     {
-      "title": "w_300,q_85/Pi1TqZgBNnOkwJLWVggf/posters/9e7d3292-037e-446a-9430-0457bd5eb116.png\",[BD] EPL channel 3",
+      "title": "w_300,q_85/Pi1TqZgBNnOkwJLWVggf/posters/1d0e778b-7d10-4aa5-ba9b-fa0e808cfdfb.png\",[BD] EPL channel 3",
       "group": "[LIVE] BDIX ♛",
       "url": "https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8"
     },
@@ -1432,19 +1437,9 @@
       "url": "https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/index.m3u8?e=1784102658&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=b75669e4aa0dd58c602b637ab66af304"
     },
     {
-      "title": "Channel S",
-      "group": "Unknown",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
-    },
-    {
       "title": "Deshi TV (720p)",
       "group": "Unknown",
       "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
-    },
-    {
-      "title": "Ananda TV",
-      "group": "Unknown",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8"
     },
     {
       "title": "Boishakhi TV",
@@ -1457,19 +1452,9 @@
       "url": "http://tvsen5.aynascope.net/maasrangatv/index.m3u8"
     },
     {
-      "title": "My TV",
-      "group": "Unknown",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
-    },
-    {
       "title": "RTV (720p)",
       "group": "Unknown",
       "url": "http://tvsen5.aynascope.net/RtvHD/index.m3u8"
-    },
-    {
-      "title": "RTV (720p)",
-      "group": "Unknown",
-      "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
     },
     {
       "title": "Maasranga TV (720p)",
@@ -1477,9 +1462,9 @@
       "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
     },
     {
-      "title": "Duronto TV (720p)",
+      "title": "Channel S",
       "group": "Unknown",
-      "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8"
     },
     {
       "title": "NTV (720p)",
@@ -1487,9 +1472,24 @@
       "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
     },
     {
+      "title": "RTV (720p)",
+      "group": "Unknown",
+      "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+    },
+    {
+      "title": "Duronto TV (720p)",
+      "group": "Unknown",
+      "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
+    },
+    {
       "title": "Rajdhani TV (1080p)",
       "group": "Unknown",
       "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+    },
+    {
+      "title": "NAN TV",
+      "group": "Unknown",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8"
     },
     {
       "title": "Nexus TV (576p)",
@@ -1497,9 +1497,14 @@
       "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
     },
     {
-      "title": "Ekushey TV (480p)",
+      "title": "ATN Music (360p)",
       "group": "Unknown",
-      "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+    },
+    {
+      "title": "Gazi TV",
+      "group": "Unknown",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8"
     },
     {
       "title": "Sananda TV",
@@ -1507,9 +1512,9 @@
       "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8"
     },
     {
-      "title": "Sananda TV",
-      "group": "Indian Bangla",
-      "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
+      "title": "ATN News",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
     },
     {
       "title": "Ananda TV",
@@ -1517,19 +1522,9 @@
       "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
     },
     {
-      "title": "ATN News",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
-    },
-    {
-      "title": "Bein Sports Extra 2",
-      "group": "Sports",
-      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
-    },
-    {
-      "title": "BTV Chattogram",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
+      "title": "Sananda TV",
+      "group": "Indian Bangla",
+      "url": "https://live.sanandatelevision.in/sananda/index.m3u8"
     },
     {
       "title": "Boishakhi TV",
@@ -1542,24 +1537,24 @@
       "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
     },
     {
+      "title": "BTV Chattogram",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
+    },
+    {
       "title": "Ekattor TV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
     },
     {
+      "title": "Bein Sports Extra 2",
+      "group": "Sports",
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+    },
+    {
       "title": "Ekhon TV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
-    },
-    {
-      "title": "MTRSPT",
-      "group": "Sports",
-      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
-    },
-    {
-      "title": "Ekushe ETV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
     },
     {
       "title": "Desh TV",
@@ -1572,19 +1567,14 @@
       "url": "http://tvsen5.aynascope.net/RtvHD/tracks-v1a1/mono.ts.m3u8"
     },
     {
+      "title": "Ekushe ETV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+    },
+    {
       "title": "Global TV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
-    },
-    {
-      "title": "Pardesi TV",
-      "group": "India",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "Willow Extra",
-      "group": "Sports",
-      "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
     },
     {
       "title": "NTV",
@@ -1592,9 +1582,9 @@
       "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8"
     },
     {
-      "title": "Sony TV HD",
-      "group": "India",
-      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
+      "title": "MTRSPT",
+      "group": "Sports",
+      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
     },
     {
       "title": "My TV",
@@ -1602,9 +1592,24 @@
       "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
     },
     {
+      "title": "SA TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
+    },
+    {
       "title": "Horse & Country",
       "group": "Sports",
       "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "title": "Pardesi TV",
+      "group": "India",
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "title": "Sony TV HD",
+      "group": "India",
+      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
     },
     {
       "title": "Hindi Hits HD",
@@ -1612,14 +1617,9 @@
       "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
-      "title": "SA TV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
-    },
-    {
-      "title": "Shemaroo Bollywood",
-      "group": "India",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+      "title": "Trace Sport",
+      "group": "Sports",
+      "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
     },
     {
       "title": "A Sports",
@@ -1627,9 +1627,9 @@
       "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
     },
     {
-      "title": "Trace Sport",
-      "group": "Sports",
-      "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+      "title": "Music TV",
+      "group": "Music",
+      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
     },
     {
       "title": "Bhojpuri Cinema",
@@ -1637,14 +1637,14 @@
       "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
     },
     {
-      "title": "Music TV",
-      "group": "Music",
-      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
-    },
-    {
       "title": "Cricket Gold",
       "group": "Sports",
       "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
+    },
+    {
+      "title": "Shemaroo Bollywood",
+      "group": "India",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
       "title": "Radio BBC",
@@ -1667,14 +1667,24 @@
       "url": "https://tntm.mediacdn.ru/cdn/tntmusic/playlist.m3u8"
     },
     {
-      "title": "Gopal Bhar",
-      "group": "Cartoons | 24/7",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+      "title": "Willow Extra",
+      "group": "Sports",
+      "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
     },
     {
       "title": "Motu Patlu",
       "group": "Cartoons | 24/7",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Gopal Bhar",
+      "group": "Cartoons | 24/7",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Doraemon",
+      "group": "Bangla | 24/7",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "Hindi Movies",
@@ -1685,11 +1695,6 @@
       "title": "South Movies",
       "group": "Hindi | 24/7",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "Doraemon",
-      "group": "Bangla | 24/7",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "📺 Welcome",
@@ -5127,11 +5132,6 @@
       "url": "http://tvsen5.aynascope.net/atnbangla/index.m3u8"
     },
     {
-      "title": "ATN Music (360p)",
-      "group": "Music",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
-    },
-    {
       "title": "Azan TV",
       "group": "Religious",
       "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
@@ -5155,6 +5155,11 @@
       "title": "Ekhon TV (1080p)",
       "group": "Business",
       "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
+    },
+    {
+      "title": "Ekushey TV (480p)",
+      "group": "News",
+      "url": "https://ekusheyserver.com/etvlivesn.m3u8"
     },
     {
       "title": "Gazi TV (1080p)",
@@ -5187,9 +5192,9 @@
       "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8"
     },
     {
-      "title": "NAN TV",
-      "group": "News",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8"
+      "title": "My TV (Bangladesh)",
+      "group": "General",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8"
     },
     {
       "title": "National Geographic (India) (576p) [Geo-blocked]",
