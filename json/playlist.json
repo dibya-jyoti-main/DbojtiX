@@ -3,7 +3,7 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-11-08 05:49:46"
+    "generated": "2026-11-08 11:28:14"
   },
   "channels": [
     {
@@ -14,7 +14,32 @@
     {
       "title": "3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG] - India A Tour of New Zealand",
       "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794138070~acl=/*~id=97754525622689186887620015547845~hmac=54b065369ae805645600e66fc1b3e1bfc519ba498b192f123931003bcd300f6f"
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
+    },
+    {
+      "title": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [ENG] - UFC Fight Night - Cortes Acosta vs Walker",
+      "group": "Live Event",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
+    },
+    {
+      "title": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [HIN] - UFC Fight Night - Cortes Acosta vs Walker",
+      "group": "Live Event",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
+    },
+    {
+      "title": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TAM] - UFC Fight Night - Cortes Acosta vs Walker",
+      "group": "Live Event",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
+    },
+    {
+      "title": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TEL] - UFC Fight Night - Cortes Acosta vs Walker",
+      "group": "Live Event",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
+    },
+    {
+      "title": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [KAN] - UFC Fight Night - Cortes Acosta vs Walker",
+      "group": "Live Event",
+      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794148369~acl=/*~id=68073785106302606716532058846492~hmac=5fdbda31c45dd4f40f7ee9ffa0cdae10e99c0058380efb5652e187e4974ed65e"
     },
     {
       "title": "Ekushey TV",
@@ -1442,11 +1467,6 @@
       "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
     },
     {
-      "title": "Star News (1080p)",
-      "group": "Unknown",
-      "url": "http://103.135.253.32:8080/Star-News/index.m3u8"
-    },
-    {
       "title": "Gazi TV (720p)",
       "group": "Unknown",
       "url": "http://103.135.253.32:8080/Gazi-TV/index.m3u8"
@@ -1462,9 +1482,9 @@
       "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
     },
     {
-      "title": "NTV (720p)",
+      "title": "RTV (720p)",
       "group": "Unknown",
-      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+      "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
     },
     {
       "title": "Maasranga TV (720p)",
@@ -1477,9 +1497,9 @@
       "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
     },
     {
-      "title": "RTV (720p)",
+      "title": "NTV (720p)",
       "group": "Unknown",
-      "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
+      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
     },
     {
       "title": "Duronto TV (1080p)",
@@ -1512,9 +1532,9 @@
       "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
     },
     {
-      "title": "Boishakhi TV",
+      "title": "Channel I",
       "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+      "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
     },
     {
       "title": "BTV Chattogram",
@@ -1522,14 +1542,9 @@
       "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
     },
     {
-      "title": "Channel I",
+      "title": "Boishakhi TV",
       "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8"
-    },
-    {
-      "title": "Ekattor TV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
+      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
     },
     {
       "title": "Ekhon TV",
@@ -1537,9 +1552,9 @@
       "url": "https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8"
     },
     {
-      "title": "MTRSPT",
-      "group": "Sports",
-      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
+      "title": "Ekushe ETV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
     },
     {
       "title": "Desh TV",
@@ -1552,29 +1567,14 @@
       "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
     },
     {
-      "title": "Ekushe ETV",
+      "title": "Ekattor TV",
       "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+      "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
     },
     {
-      "title": "Pardesi TV",
-      "group": "India",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "NTV",
-      "group": "Bangladesh",
-      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "title": "My TV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
-    },
-    {
-      "title": "Sony TV HD",
-      "group": "India",
-      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
+      "title": "MTRSPT",
+      "group": "Sports",
+      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
     },
     {
       "title": "Willow Extra",
@@ -1582,19 +1582,19 @@
       "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
     },
     {
-      "title": "Horse & Country",
-      "group": "Sports",
-      "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
-    },
-    {
-      "title": "Shemaroo Bollywood",
+      "title": "Pardesi TV",
       "group": "India",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
     },
     {
-      "title": "SA TV",
+      "title": "Sony TV HD",
+      "group": "India",
+      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
+    },
+    {
+      "title": "NTV",
       "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
+      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "Hindi Hits HD",
@@ -1602,14 +1602,24 @@
       "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
+      "title": "Horse & Country",
+      "group": "Sports",
+      "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "title": "My TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
+    },
+    {
       "title": "Trace Sport",
       "group": "Sports",
       "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
     },
     {
-      "title": "A Sports",
-      "group": "Sports",
-      "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
+      "title": "SA TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
     },
     {
       "title": "Bhojpuri Cinema",
@@ -1617,14 +1627,19 @@
       "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
     },
     {
+      "title": "A Sports",
+      "group": "Sports",
+      "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
+    },
+    {
       "title": "Music TV",
       "group": "Music",
       "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
     },
     {
-      "title": "Cricket Gold",
-      "group": "Sports",
-      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
+      "title": "Shemaroo Bollywood",
+      "group": "India",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
       "title": "Radio BBC",
@@ -1635,6 +1650,11 @@
       "title": "30A Music",
       "group": "Music",
       "url": "https://30a-tv.com/music.m3u8"
+    },
+    {
+      "title": "Cricket Gold",
+      "group": "Sports",
+      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
     },
     {
       "title": "Rongeen TV",
@@ -1657,14 +1677,14 @@
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
     },
     {
-      "title": "Hindi Movies",
-      "group": "Hindi | 24/7",
-      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
       "title": "Doraemon",
       "group": "Bangla | 24/7",
       "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "title": "Hindi Movies",
+      "group": "Hindi | 24/7",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8"
     },
     {
       "title": "South Movies",
@@ -5142,11 +5162,6 @@
       "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
     },
     {
-      "title": "Disney International HD (576p)",
-      "group": "Kids",
-      "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls"
-    },
-    {
       "title": "Ekhon TV (1080p)",
       "group": "Business",
       "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
@@ -5214,7 +5229,7 @@
     {
       "title": "Nick Jr. (India) (576p)",
       "group": "Kids",
-      "url": "http://103.151.60.162:2122/play/a00s/index.m3u8?hls"
+      "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8"
     },
     {
       "title": "Nickelodeon (India) (576p)",
@@ -5244,12 +5259,12 @@
     {
       "title": "Sonic (576p)",
       "group": "Kids",
-      "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls"
+      "url": "http://103.185.24.134:3001/SONIC/index.m3u8"
     },
     {
-      "title": "Star Jalsha (576p)",
+      "title": "Star Jalsha (1080p) [Geo-blocked]",
       "group": "Entertainment",
-      "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls"
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805"
     },
     {
       "title": "Star Jalsha HD (1080p)",
@@ -5257,14 +5272,14 @@
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8"
     },
     {
+      "title": "Star News (1080p)",
+      "group": "Undefined",
+      "url": "http://103.135.253.32:8080/Star-News/index.m3u8"
+    },
+    {
       "title": "Vokta TV (720p)",
       "group": "General",
       "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8"
-    },
-    {
-      "title": "Zee Bangla (576p)",
-      "group": "Entertainment",
-      "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls"
     },
     {
       "title": "Zee Bangla HD (1080p)",
