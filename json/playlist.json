@@ -3,58 +3,13 @@
     "title": "IPTV PLAYLIST",
     "owner": "Dibya Jyoti Mahanta",
     "version": "2.0.0",
-    "generated": "2026-11-14 03:51:38"
+    "generated": "2026-11-14 08:06:44"
   },
   "channels": [
     {
       "title": "Welcome to PlayZ TV",
       "group": "Welcome to PlayZ TV | New App",
       "url": "https://playztv.pages.dev/promo/master.m3u8"
-    },
-    {
-      "title": "Serbia vs Germany - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Netherlands vs Greece - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Scotland vs North Macedonia - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Slovenia vs Switzerland - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Slovakia vs Faroe Islands - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Luxembourg vs Estonia - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Bulgaria vs Iceland - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Andorra vs Gibraltar - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
-    },
-    {
-      "title": "Liechtenstein vs Azerbaijan - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27",
-      "group": "Live Event",
-      "url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794648555~acl=/*~id=72647314150987490884661334494508~hmac=e7dab81dbb471b9e5cd12c7c477fce2155edc82df96b96c5d63de654c3dd67c2"
     },
     {
       "title": "Ekushey TV",
@@ -1482,11 +1437,6 @@
       "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
     },
     {
-      "title": "Maasranga TV (720p)",
-      "group": "Unknown",
-      "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
-    },
-    {
       "title": "RTV (720p)",
       "group": "Unknown",
       "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8"
@@ -1497,14 +1447,24 @@
       "url": "https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8"
     },
     {
+      "title": "Rajdhani TV (1080p)",
+      "group": "Unknown",
+      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+    },
+    {
+      "title": "Maasranga TV (720p)",
+      "group": "Unknown",
+      "url": "https://tvsen5.aynaott.com/maasrangatv/index.m3u8"
+    },
+    {
       "title": "Nexus TV (576p)",
       "group": "Unknown",
       "url": "https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8"
     },
     {
-      "title": "Rajdhani TV (1080p)",
+      "title": "Duronto TV (1080p)",
       "group": "Unknown",
-      "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+      "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8"
     },
     {
       "title": "Ekushey TV (480p)",
@@ -1517,24 +1477,14 @@
       "url": "http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8"
     },
     {
-      "title": "Ananda TV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
-    },
-    {
       "title": "ATN News",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8"
     },
     {
-      "title": "Bein Sports Extra 2",
-      "group": "Sports",
-      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
-    },
-    {
-      "title": "Boishakhi TV",
+      "title": "Ananda TV",
       "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+      "url": "https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8"
     },
     {
       "title": "BTV Chattogram",
@@ -1542,9 +1492,14 @@
       "url": "https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8"
     },
     {
-      "title": "MTRSPT",
+      "title": "Boishakhi TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8"
+    },
+    {
+      "title": "Bein Sports Extra 2",
       "group": "Sports",
-      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
+      "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
     },
     {
       "title": "Channel I",
@@ -1562,19 +1517,34 @@
       "url": "https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8"
     },
     {
-      "title": "Global TV",
-      "group": "Bangladesh",
-      "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
-    },
-    {
       "title": "Desh TV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8"
     },
     {
+      "title": "MTRSPT",
+      "group": "Sports",
+      "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8"
+    },
+    {
       "title": "Ekushe ETV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8"
+    },
+    {
+      "title": "Pardesi TV",
+      "group": "India",
+      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "title": "Sony TV HD",
+      "group": "India",
+      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
+    },
+    {
+      "title": "Global TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8"
     },
     {
       "title": "Willow Extra",
@@ -1592,24 +1562,9 @@
       "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8"
     },
     {
-      "title": "Sony TV HD",
-      "group": "India",
-      "url": "http://premimum.online:80/live/jen12345/jen54321/98854.ts"
-    },
-    {
-      "title": "Pardesi TV",
-      "group": "India",
-      "url": "http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8"
-    },
-    {
       "title": "My TV",
       "group": "Bangladesh",
       "url": "https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8"
-    },
-    {
-      "title": "Shemaroo Bollywood",
-      "group": "India",
-      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
     },
     {
       "title": "Hindi Hits HD",
@@ -1617,19 +1572,14 @@
       "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8"
     },
     {
+      "title": "SA TV",
+      "group": "Bangladesh",
+      "url": "https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8"
+    },
+    {
       "title": "A Sports",
       "group": "Sports",
       "url": "https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8"
-    },
-    {
-      "title": "Music TV",
-      "group": "Music",
-      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
-    },
-    {
-      "title": "Cricket Gold",
-      "group": "Sports",
-      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
     },
     {
       "title": "Bhojpuri Cinema",
@@ -1637,9 +1587,24 @@
       "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
     },
     {
+      "title": "Music TV",
+      "group": "Music",
+      "url": "http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+    },
+    {
       "title": "Trace Sport",
       "group": "Sports",
       "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+    },
+    {
+      "title": "Shemaroo Bollywood",
+      "group": "India",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+    },
+    {
+      "title": "Cricket Gold",
+      "group": "Sports",
+      "url": "https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8"
     },
     {
       "title": "Radio BBC",
@@ -5132,11 +5097,6 @@
       "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
     },
     {
-      "title": "Duronto TV (1080p)",
-      "group": "Kids",
-      "url": "https://livetv.shamon-cable.net:8443/Duronto/index.m3u8"
-    },
-    {
       "title": "Ekhon TV (1080p)",
       "group": "Business",
       "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
@@ -5155,11 +5115,6 @@
       "title": "Jalsha Movies (1080p)",
       "group": "Movies",
       "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8"
-    },
-    {
-      "title": "Jalsha Movies HD (1080p)",
-      "group": "Movies",
-      "url": "http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8"
     },
     {
       "title": "Maasranga TV (720p)",
@@ -5252,9 +5207,9 @@
       "url": "https://vokta.raytahost.com/live/voktatv/index.m3u8"
     },
     {
-      "title": "Zee Bangla HD (1080p)",
+      "title": "Zee Bangla HD (720p)",
       "group": "Entertainment",
-      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8"
+      "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8"
     },
     {
       "title": "Zee Bangla Sonar (576p)",
